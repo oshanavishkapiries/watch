@@ -1,0 +1,7372 @@
+﻿1
+00:00:31,110 --> 00:00:34,650
+Why don't you go ahead?
+Sit down and see if you can get comfy.
+
+2
+00:00:37,570 --> 00:00:39,780
+-You good? All right.
+-Yeah.
+
+3
+00:00:39,910 --> 00:00:42,120
+- Um...
+
+4
+00:00:43,040 --> 00:00:44,790
+Take one, marker.
+
+5
+00:00:46,790 --> 00:00:48,790
+Wanna start
+by introducing yourself?
+
+6
+00:00:50,460 --> 00:00:53,340
+Hello, world. Bailey. Take three.
+
+7
+00:00:53,970 --> 00:00:56,340
+- You good?
+-This is the worst part, man.
+
+8
+00:00:56,890 --> 00:00:59,510
+I don't like this.
+
+9
+00:00:59,850 --> 00:01:02,220
+I worked at Facebook in 2011 and 2012.
+
+10
+00:01:02,310 --> 00:01:05,190
+I was one of the really early employees
+at Instagram.
+
+11
+00:01:05,270 --> 00:01:08,690
+I worked at, uh, Google,
+uh, YouTube.
+
+12
+00:01:08,770 --> 00:01:11,690
+Apple, Google, Twitter, Palm.
+
+13
+00:01:12,730 --> 00:01:15,530
+I helped start Mozilla Labs
+and switched over to the Firefox side.
+
+14
+00:01:15,610 --> 00:01:18,110
+- Are we rolling? Everybody?
+
+15
+00:01:18,200 --> 00:01:19,160
+Great.
+
+16
+00:01:21,200 --> 00:01:22,620
+I worked at Twitter.
+
+17
+00:01:23,040 --> 00:01:23,910
+My last job there
+
+18
+00:01:24,000 --> 00:01:26,160
+was the senior vice president
+of engineering.
+
+19
+00:01:27,330 --> 00:01:29,250
+- I was the president of Pinterest.
+
+20
+00:01:29,330 --> 00:01:32,710
+Before that, um,
+I was the... the director of monetization
+
+21
+00:01:32,800 --> 00:01:34,260
+at Facebook for five years.
+
+22
+00:01:34,340 --> 00:01:37,970
+While at Twitter, I spent a number
+of years running their developer platform,
+
+23
+00:01:38,050 --> 00:01:40,220
+and then I became
+head of consumer product.
+
+24
+00:01:40,300 --> 00:01:44,270
+I was the coinventor of Google Drive,
+Gmail Chat,
+
+25
+00:01:44,350 --> 00:01:46,680
+Facebook Pages,
+and the Facebook like button.
+
+26
+00:01:47,440 --> 00:01:50,770
+Yeah. This is... This is why I spent,
+like, eight months
+
+27
+00:01:50,860 --> 00:01:52,770
+talking back and forth with lawyers.
+
+28
+00:01:54,070 --> 00:01:55,400
+This freaks me out.
+
+29
+00:01:58,400 --> 00:01:59,700
+When I was there,
+
+30
+00:01:59,780 --> 00:02:02,910
+I always felt like,
+fundamentally, it was a force for good.
+
+31
+00:02:03,410 --> 00:02:05,370
+I don't know if I feel that way anymore.
+
+32
+00:02:05,450 --> 00:02:10,580
+I left Google in June 2017, uh,
+due to ethical concerns.
+
+33
+00:02:10,670 --> 00:02:14,130
+And... And not just at Google
+but within the industry at large.
+
+34
+00:02:14,210 --> 00:02:15,380
+I'm very concerned.
+
+35
+00:02:16,630 --> 00:02:17,670
+I'm very concerned.
+
+36
+00:02:19,090 --> 00:02:21,800
+It's easy today to lose sight of the fact
+
+37
+00:02:21,890 --> 00:02:27,810
+that these tools actually have created
+some wonderful things in the world.
+
+38
+00:02:27,890 --> 00:02:31,940
+They've reunited lost family members.
+They've found organ donors.
+
+39
+00:02:32,020 --> 00:02:36,570
+I mean, there were meaningful,
+systemic changes happening
+
+40
+00:02:36,650 --> 00:02:39,150
+around the world
+because of these platforms
+
+41
+00:02:39,240 --> 00:02:40,280
+that were positive!
+
+42
+00:02:40,820 --> 00:02:44,530
+I think we were naive
+about the flip side of that coin.
+
+43
+00:02:45,540 --> 00:02:48,580
+Yeah, these things, you release them,
+and they take on a life of their own.
+
+44
+00:02:48,660 --> 00:02:52,000
+And how they're used is pretty different
+than how you expected.
+
+45
+00:02:52,080 --> 00:02:56,500
+Nobody, I deeply believe,
+ever intended any of these consequences.
+
+46
+00:02:56,590 --> 00:02:59,550
+There's no one bad guy.
+No. Absolutely not.
+
+47
+00:03:01,590 --> 00:03:03,970
+So, then,
+what's the... what's the problem?
+
+48
+00:03:09,140 --> 00:03:11,480
+Is there a problem,
+and what is the problem?
+
+49
+00:03:17,610 --> 00:03:19,990
+Yeah, it is hard
+to give a single, succinct...
+
+50
+00:03:20,070 --> 00:03:22,110
+I'm trying to touch on
+many different problems.
+
+51
+00:03:22,530 --> 00:03:23,950
+What is the problem?
+
+52
+00:03:33,460 --> 00:03:35,340
+Despite facing mounting criticism,
+
+53
+00:03:35,420 --> 00:03:37,670
+the so-called Big Tech names
+are getting bigger.
+
+54
+00:03:37,750 --> 00:03:40,920
+The entire tech industry is
+under a new level of scrutiny.
+
+55
+00:03:41,010 --> 00:03:43,800
+And a new study sheds light on the link
+
+56
+00:03:43,890 --> 00:03:46,140
+between mental health
+and social media use.
+
+57
+00:03:46,220 --> 00:03:48,680
+Here to talk about the latest research...
+
+58
+00:03:48,770 --> 00:03:51,390
+...is going on
+that gets no coverage at all.
+
+59
+00:03:51,480 --> 00:03:54,100
+Tens of millions of Americans
+are hopelessly addicted
+
+60
+00:03:54,190 --> 00:03:56,310
+to their electronic devices.
+
+61
+00:03:56,400 --> 00:03:57,980
+It's exacerbated by the fact
+
+62
+00:03:58,070 --> 00:04:00,690
+that you can literally isolate yourself
+now
+
+63
+00:04:00,780 --> 00:04:02,740
+in a bubble, thanks to our technology.
+
+64
+00:04:02,820 --> 00:04:04,570
+Fake news is becoming more advanced
+
+65
+00:04:04,660 --> 00:04:06,780
+and threatening societies
+around the world.
+
+66
+00:04:06,870 --> 00:04:10,250
+We weren't expecting any of this
+when we created Twitter over 12 years ago.
+
+67
+00:04:10,330 --> 00:04:12,500
+White House officials say
+they have no reason to believe
+
+68
+00:04:12,580 --> 00:04:14,750
+the Russian cyberattacks will stop.
+
+69
+00:04:14,830 --> 00:04:18,130
+YouTube is being forced
+to concentrate on cleansing the site.
+
+70
+00:04:18,210 --> 00:04:21,550
+TikTok,
+if you talk to any tween out there...
+
+71
+00:04:21,630 --> 00:04:24,010
+...there's no chance
+they'll delete this thing...
+
+72
+00:04:24,090 --> 00:04:26,220
+Hey, Isla,
+can you get the table ready, please?
+
+73
+00:04:26,300 --> 00:04:28,600
+There's a question
+about whether social media
+
+74
+00:04:28,680 --> 00:04:29,970
+is making your child depressed.
+
+75
+00:04:30,060 --> 00:04:32,100
+Isla,
+can you set the table, please?
+
+76
+00:04:32,180 --> 00:04:35,310
+These cosmetic procedures
+are becoming so popular with teens,
+
+77
+00:04:35,400 --> 00:04:37,900
+plastic surgeons have coined
+a new syndrome for it,
+
+78
+00:04:37,980 --> 00:04:40,820
+"Snapchat dysmorphia,"
+with young patients wanting surgery
+
+79
+00:04:40,900 --> 00:04:43,740
+so they can look more like they do
+in filtered selfies.
+
+80
+00:04:43,820 --> 00:04:45,910
+Still don't see why you let her have
+that thing.
+
+81
+00:04:45,990 --> 00:04:47,410
+What was I supposed to do?
+
+82
+00:04:47,490 --> 00:04:49,580
+I mean, every other kid
+in her class had one.
+
+83
+00:04:50,160 --> 00:04:51,160
+She's only 11.
+
+84
+00:04:51,240 --> 00:04:52,950
+Cass, no one's forcing you to get one.
+
+85
+00:04:53,040 --> 00:04:55,080
+You can stay disconnected
+as long as you want.
+
+86
+00:04:55,160 --> 00:04:59,340
+Hey, I'm connected without a cell phone,
+okay? I'm on the Internet right now.
+
+87
+00:04:59,420 --> 00:05:03,090
+Also, that isn't even actual connection.
+It's just a load of sh--
+
+88
+00:05:03,170 --> 00:05:05,010
+Surveillance capitalism has come to shape
+
+89
+00:05:05,090 --> 00:05:07,760
+our politics and culture
+in ways many people don't perceive.
+
+90
+00:05:07,840 --> 00:05:10,100
+ISIS inspired followers online,
+
+91
+00:05:10,180 --> 00:05:12,810
+and now white supremacists
+are doing the same.
+
+92
+00:05:12,890 --> 00:05:14,140
+Recently in India,
+
+93
+00:05:14,230 --> 00:05:17,440
+Internet lynch mobs have killed
+a dozen people, including these five...
+
+94
+00:05:17,520 --> 00:05:20,360
+It's not just fake news;
+it's fake news with consequences.
+
+95
+00:05:20,440 --> 00:05:24,070
+How do you handle an epidemic
+in the age of fake news?
+
+96
+00:05:24,150 --> 00:05:26,990
+Can you get the coronavirus
+by eating Chinese food?
+
+97
+00:05:27,530 --> 00:05:32,540
+We have gone from the information age
+into the disinformation age.
+
+98
+00:05:32,620 --> 00:05:34,660
+Our democracy is under assault.
+
+99
+00:05:34,750 --> 00:05:36,910
+What I said was,
+"I think the tools
+
+100
+00:05:37,000 --> 00:05:39,000
+that have been created today are starting
+
+101
+00:05:39,080 --> 00:05:41,790
+to erode the social fabric
+of how society works."
+
+102
+00:05:58,560 --> 00:05:59,440
+Fine.
+
+103
+00:06:00,150 --> 00:06:03,440
+Aza does
+welcoming remarks. We play the video.
+
+104
+00:06:04,190 --> 00:06:07,320
+And then, "Ladies and gentlemen,
+Tristan Harris."
+
+105
+00:06:07,400 --> 00:06:08,860
+-Right.
+- Great.
+
+106
+00:06:08,950 --> 00:06:12,030
+So, I come up, and...
+
+107
+00:06:13,830 --> 00:06:17,120
+basically say, "Thank you all for coming."
+Um...
+
+108
+00:06:17,910 --> 00:06:22,040
+So, today, I wanna talk about a new agenda
+for technology.
+
+109
+00:06:22,130 --> 00:06:25,460
+And why we wanna do that
+is because if you ask people,
+
+110
+00:06:25,550 --> 00:06:27,800
+"What's wrong in the tech industry
+right now?"
+
+111
+00:06:28,260 --> 00:06:31,640
+there's a cacophony of grievances
+and scandals,
+
+112
+00:06:31,720 --> 00:06:33,890
+and "They stole our data."
+And there's tech addiction.
+
+113
+00:06:33,970 --> 00:06:35,970
+And there's fake news.
+And there's polarization
+
+114
+00:06:36,060 --> 00:06:37,850
+and some elections
+that are getting hacked.
+
+115
+00:06:38,180 --> 00:06:41,600
+But is there something
+that is beneath all these problems
+
+116
+00:06:41,690 --> 00:06:44,610
+that's causing all these things
+to happen at once?
+
+117
+00:06:46,440 --> 00:06:48,400
+-Does this feel good?
+-Very good. Yeah.
+
+118
+00:06:49,030 --> 00:06:49,990
+Um...
+
+119
+00:06:50,740 --> 00:06:52,950
+I'm just trying to...
+Like, I want people to see...
+
+120
+00:06:53,030 --> 00:06:55,120
+Like, there's a problem happening
+in the tech industry,
+
+121
+00:06:55,200 --> 00:06:56,700
+and it doesn't have a name,
+
+122
+00:06:56,790 --> 00:07:00,210
+and it has to do with one source,
+like, one...
+
+123
+00:07:05,090 --> 00:07:09,380
+When you look around you,
+it feels like the world is going crazy.
+
+124
+00:07:12,760 --> 00:07:15,300
+You have to ask yourself, like,
+"Is this normal?
+
+125
+00:07:16,100 --> 00:07:18,770
+Or have we all fallen under some kind
+of spell?"
+
+126
+00:07:27,980 --> 00:07:30,490
+I wish more people could understand
+how this works
+
+127
+00:07:30,570 --> 00:07:34,030
+because it shouldn't be something
+that only the tech industry knows.
+
+128
+00:07:34,120 --> 00:07:36,240
+It should be something
+that everybody knows.
+
+129
+00:07:41,410 --> 00:07:42,370
+Bye.
+
+130
+00:07:43,620 --> 00:07:44,880
+Here you go, sir.
+
+131
+00:07:47,380 --> 00:07:48,670
+- Hello!
+- Hi.
+
+132
+00:07:48,750 --> 00:07:50,670
+-Tristan. Nice to meet you.
+-It's Tris-tan, right?
+
+133
+00:07:50,760 --> 00:07:51,720
+-Yes.
+-Awesome. Cool.
+
+134
+00:07:53,180 --> 00:07:55,930
+Tristan Harris
+is a former design ethicist for Google
+
+135
+00:07:56,010 --> 00:07:59,390
+and has been called the closest thing
+Silicon Valley has to a conscience.
+
+136
+00:07:59,470 --> 00:08:00,730
+He's asking tech
+
+137
+00:08:00,810 --> 00:08:04,190
+to bring what he calls "ethical design"
+to its products.
+
+138
+00:08:04,270 --> 00:08:06,900
+It's rare
+for a tech insider to be so blunt,
+
+139
+00:08:06,980 --> 00:08:10,110
+but Tristan Harris believes
+someone needs to be.
+
+140
+00:08:11,320 --> 00:08:12,700
+When I was at Google,
+
+141
+00:08:12,780 --> 00:08:16,030
+I was on the Gmail team,
+and I just started getting burnt out
+
+142
+00:08:16,120 --> 00:08:18,370
+'cause we'd had
+so many conversations about...
+
+143
+00:08:19,450 --> 00:08:23,160
+you know, what the inbox should look like
+and what color it should be, and...
+
+144
+00:08:23,250 --> 00:08:25,880
+And I, you know, felt personally addicted
+to e-mail,
+
+145
+00:08:26,290 --> 00:08:27,630
+and I found it fascinating
+
+146
+00:08:27,710 --> 00:08:31,510
+there was no one at Gmail working
+on making it less addictive.
+
+147
+00:08:31,960 --> 00:08:34,510
+And I was like,
+"Is anybody else thinking about this?
+
+148
+00:08:34,590 --> 00:08:36,390
+I haven't heard anybody talk about this."
+
+149
+00:08:36,840 --> 00:08:39,680
+-And I was feeling this frustration...
+
+150
+00:08:39,760 --> 00:08:41,220
+...with the tech industry, overall,
+
+151
+00:08:41,310 --> 00:08:43,140
+that we'd kind of, like, lost our way.
+
+152
+00:08:46,810 --> 00:08:49,820
+You know, I really struggled
+to try and figure out
+
+153
+00:08:49,900 --> 00:08:52,570
+how, from the inside, we could change it.
+
+154
+00:08:55,200 --> 00:08:58,120
+And that was when I decided
+to make a presentation,
+
+155
+00:08:58,200 --> 00:08:59,490
+kind of a call to arms.
+
+156
+00:09:00,990 --> 00:09:04,960
+Every day, I went home and I worked on it
+for a couple hours every single night.
+
+157
+00:09:06,170 --> 00:09:08,540
+It basically just said,
+you know,
+
+158
+00:09:08,630 --> 00:09:11,880
+never before
+in history have 50 designers--
+
+159
+00:09:12,420 --> 00:09:15,260
+20- to 35-year-old white guys
+in California--
+
+160
+00:09:15,880 --> 00:09:19,720
+made decisions that would have an impact
+on two billion people.
+
+161
+00:09:21,010 --> 00:09:24,430
+Two billion people will have thoughts
+that they didn't intend to have
+
+162
+00:09:24,520 --> 00:09:28,400
+because a designer at Google said,
+"This is how notifications work
+
+163
+00:09:28,480 --> 00:09:30,770
+on that screen that you wake up to
+in the morning."
+
+164
+00:09:31,190 --> 00:09:35,280
+And we have a moral responsibility,
+as Google, for solving this problem.
+
+165
+00:09:36,070 --> 00:09:37,740
+And I sent this presentation
+
+166
+00:09:37,820 --> 00:09:41,780
+to about 15, 20 of my closest colleagues
+at Google,
+
+167
+00:09:41,870 --> 00:09:44,950
+and I was very nervous about it.
+I wasn't sure how it was gonna land.
+
+168
+00:09:46,460 --> 00:09:48,040
+When I went to work the next day,
+
+169
+00:09:48,120 --> 00:09:50,460
+most of the laptops
+had the presentation open.
+
+170
+00:09:52,130 --> 00:09:54,550
+Later that day, there was, like,
+400 simultaneous viewers,
+
+171
+00:09:54,630 --> 00:09:56,050
+so it just kept growing and growing.
+
+172
+00:09:56,130 --> 00:10:00,260
+I got e-mails from all around the company.
+I mean, people in every department saying,
+
+173
+00:10:00,340 --> 00:10:02,850
+"I totally agree."
+"I see this affecting my kids."
+
+174
+00:10:02,930 --> 00:10:04,970
+"I see this affecting
+the people around me."
+
+175
+00:10:05,060 --> 00:10:06,930
+"We have to do something about this."
+
+176
+00:10:07,480 --> 00:10:10,810
+It felt like I was sort of launching
+a revolution or something like that.
+
+177
+00:10:11,860 --> 00:10:15,190
+Later, I found out Larry Page
+had been notified about this presentation
+
+178
+00:10:15,280 --> 00:10:17,900
+-in three separate meetings that day.
+
+179
+00:10:17,990 --> 00:10:20,280
+And so, it created
+this kind of cultural moment
+
+180
+00:10:20,870 --> 00:10:24,410
+-that Google needed to take seriously.
+
+181
+00:10:26,000 --> 00:10:28,870
+- And then... nothing.
+
+182
+00:10:34,300 --> 00:10:36,130
+Everyone in 2006...
+
+183
+00:10:37,210 --> 00:10:39,220
+including all of us at Facebook,
+
+184
+00:10:39,300 --> 00:10:43,390
+just had total admiration for Google
+and what Google had built,
+
+185
+00:10:43,470 --> 00:10:47,390
+which was this incredibly useful service
+
+186
+00:10:47,480 --> 00:10:51,440
+that did, far as we could tell,
+lots of goodness for the world,
+
+187
+00:10:51,520 --> 00:10:54,690
+and they built
+this parallel money machine.
+
+188
+00:10:55,400 --> 00:11:00,030
+We had such envy for that,
+and it seemed so elegant to us...
+
+189
+00:11:00,820 --> 00:11:02,160
+and so perfect.
+
+190
+00:11:02,950 --> 00:11:05,280
+Facebook had been around
+for about two years,
+
+191
+00:11:05,370 --> 00:11:08,370
+um, and I was hired to come in
+and figure out
+
+192
+00:11:08,450 --> 00:11:10,580
+what the business model was gonna be
+for the company.
+
+193
+00:11:10,670 --> 00:11:13,420
+I was the director of monetization.
+The point was, like,
+
+194
+00:11:13,500 --> 00:11:17,050
+"You're the person who's gonna figure out
+how this thing monetizes."
+
+195
+00:11:17,130 --> 00:11:19,800
+And there were a lot of people
+who did a lot of the work,
+
+196
+00:11:19,880 --> 00:11:25,470
+but I was clearly one of the people
+who was pointing towards...
+
+197
+00:11:26,760 --> 00:11:28,560
+"Well, we have to make money, A...
+
+198
+00:11:29,310 --> 00:11:33,650
+and I think this advertising model
+is probably the most elegant way.
+
+199
+00:11:42,240 --> 00:11:44,370
+Uh-oh. What's this video Mom just sent us?
+
+200
+00:11:44,450 --> 00:11:46,740
+Oh, that's from a talk show,
+but that's pretty good.
+
+201
+00:11:46,830 --> 00:11:47,870
+Guy's kind of a genius.
+
+202
+00:11:47,950 --> 00:11:50,580
+He's talking all about deleting
+social media, which you gotta do.
+
+203
+00:11:50,660 --> 00:11:52,870
+I might have to start blocking
+her e-mails.
+
+204
+00:11:52,960 --> 00:11:54,880
+I don't even know
+what she's talking about, man.
+
+205
+00:11:54,960 --> 00:11:56,090
+She's worse than I am.
+
+206
+00:11:56,170 --> 00:11:58,500
+-No, she only uses it for recipes.
+-Right, and work.
+
+207
+00:11:58,590 --> 00:12:00,550
+-And workout videos.
+- And to check up on us.
+
+208
+00:12:00,630 --> 00:12:03,050
+And everyone else she's ever met
+in her entire life.
+
+209
+00:12:04,930 --> 00:12:07,890
+If you are scrolling through
+your social media feed
+
+210
+00:12:07,970 --> 00:12:11,730
+while you're watchin' us, you need to put
+the damn phone down and listen up
+
+211
+00:12:11,810 --> 00:12:14,810
+'cause our next guest has written
+an incredible book
+
+212
+00:12:14,900 --> 00:12:18,110
+about how much it's wrecking our lives.
+
+213
+00:12:18,190 --> 00:12:19,440
+Please welcome author
+
+214
+00:12:19,530 --> 00:12:23,950
+of Ten Arguments for Deleting
+Your Social Media Accounts Right Now...
+
+215
+00:12:24,030 --> 00:12:26,280
+- Uh-huh.
+-...Jaron Lanier.
+
+216
+00:12:27,990 --> 00:12:31,830
+Companies like Google and Facebook
+are some of the wealthiest
+
+217
+00:12:31,910 --> 00:12:33,540
+and most successful of all time.
+
+218
+00:12:33,710 --> 00:12:36,830
+Uh, they have relatively few employees.
+
+219
+00:12:36,920 --> 00:12:41,420
+They just have this giant computer
+that rakes in money, right? Uh...
+
+220
+00:12:41,510 --> 00:12:42,970
+Now, what are they being paid for?
+
+221
+00:12:43,050 --> 00:12:45,220
+That's a really important question.
+
+222
+00:12:47,300 --> 00:12:50,310
+So, I've been an investor
+in technology for 35 years.
+
+223
+00:12:51,020 --> 00:12:54,350
+The first 50 years of Silicon Valley,
+the industry made products--
+
+224
+00:12:54,440 --> 00:12:55,560
+hardware, software--
+
+225
+00:12:55,640 --> 00:12:58,400
+sold 'em to customers.
+Nice, simple business.
+
+226
+00:12:58,480 --> 00:13:01,440
+For the last ten years,
+the biggest companies in Silicon Valley
+
+227
+00:13:01,530 --> 00:13:03,860
+have been in the business
+of selling their users.
+
+228
+00:13:03,940 --> 00:13:05,910
+It's a little even trite to say now,
+
+229
+00:13:05,990 --> 00:13:09,200
+but... because we don't pay
+for the products that we use,
+
+230
+00:13:09,280 --> 00:13:12,160
+advertisers pay
+for the products that we use.
+
+231
+00:13:12,240 --> 00:13:14,210
+Advertisers are the customers.
+
+232
+00:13:14,710 --> 00:13:16,080
+We're the thing being sold.
+
+233
+00:13:16,170 --> 00:13:17,630
+The classic saying is:
+
+234
+00:13:17,710 --> 00:13:21,590
+"If you're not paying for the product,
+then you are the product."
+
+235
+00:13:23,380 --> 00:13:27,220
+A lot of people think, you know,
+"Oh, well, Google's just a search box,
+
+236
+00:13:27,300 --> 00:13:29,850
+and Facebook's just a place to see
+what my friends are doing
+
+237
+00:13:29,930 --> 00:13:31,100
+and see their photos."
+
+238
+00:13:31,180 --> 00:13:35,480
+But what they don't realize
+is they're competing for your attention.
+
+239
+00:13:36,520 --> 00:13:41,110
+So, you know, Facebook, Snapchat,
+Twitter, Instagram, YouTube,
+
+240
+00:13:41,190 --> 00:13:45,690
+companies like this, their business model
+is to keep people engaged on the screen.
+
+241
+00:13:46,280 --> 00:13:49,570
+Let's figure out how to get
+as much of this person's attention
+
+242
+00:13:49,660 --> 00:13:50,950
+as we possibly can.
+
+243
+00:13:51,450 --> 00:13:53,370
+How much time can we get you to spend?
+
+244
+00:13:53,870 --> 00:13:56,660
+How much of your life can we get you
+to give to us?
+
+245
+00:13:58,620 --> 00:14:01,090
+When you think about
+how some of these companies work,
+
+246
+00:14:01,170 --> 00:14:02,420
+it starts to make sense.
+
+247
+00:14:03,050 --> 00:14:06,090
+There are all these services
+on the Internet that we think of as free,
+
+248
+00:14:06,170 --> 00:14:09,470
+but they're not free.
+They're paid for by advertisers.
+
+249
+00:14:09,550 --> 00:14:11,550
+Why do advertisers pay those companies?
+
+250
+00:14:11,640 --> 00:14:14,680
+They pay in exchange for showing their ads
+to us.
+
+251
+00:14:14,770 --> 00:14:18,350
+We're the product. Our attention
+is the product being sold to advertisers.
+
+252
+00:14:18,810 --> 00:14:20,440
+That's a little too simplistic.
+
+253
+00:14:20,860 --> 00:14:23,650
+It's the gradual, slight,
+imperceptible change
+
+254
+00:14:23,730 --> 00:14:26,570
+in your own behavior and perception
+that is the product.
+
+255
+00:14:27,650 --> 00:14:30,240
+And that is the product.
+It's the only possible product.
+
+256
+00:14:30,320 --> 00:14:34,080
+There's nothing else on the table
+that could possibly be called the product.
+
+257
+00:14:34,160 --> 00:14:37,000
+That's the only thing there is
+for them to make money from.
+
+258
+00:14:37,660 --> 00:14:39,250
+Changing what you do,
+
+259
+00:14:39,330 --> 00:14:41,710
+how you think, who you are.
+
+260
+00:14:42,630 --> 00:14:45,300
+It's a gradual change. It's slight.
+
+261
+00:14:45,380 --> 00:14:48,970
+If you can go to somebody and you say,
+"Give me $10 million,
+
+262
+00:14:49,050 --> 00:14:54,310
+and I will change the world one percent
+in the direction you want it to change..."
+
+263
+00:14:54,850 --> 00:14:58,180
+It's the world! That can be incredible,
+and that's worth a lot of money.
+
+264
+00:14:59,310 --> 00:15:00,140
+Okay.
+
+265
+00:15:00,690 --> 00:15:04,570
+This is what every business
+has always dreamt of:
+
+266
+00:15:04,650 --> 00:15:10,910
+to have a guarantee that if it places
+an ad, it will be successful.
+
+267
+00:15:11,320 --> 00:15:12,780
+That's their business.
+
+268
+00:15:12,870 --> 00:15:14,410
+They sell certainty.
+
+269
+00:15:14,990 --> 00:15:17,620
+In order to be successful
+in that business,
+
+270
+00:15:17,700 --> 00:15:19,790
+you have to have great predictions.
+
+271
+00:15:20,080 --> 00:15:24,170
+Great predictions begin
+with one imperative:
+
+272
+00:15:25,210 --> 00:15:26,920
+you need a lot of data.
+
+273
+00:15:29,130 --> 00:15:31,300
+Many people call this
+surveillance capitalism,
+
+274
+00:15:31,630 --> 00:15:34,350
+capitalism profiting
+off of the infinite tracking
+
+275
+00:15:34,430 --> 00:15:38,060
+of everywhere everyone goes
+by large technology companies
+
+276
+00:15:38,140 --> 00:15:40,350
+whose business model is to make sure
+
+277
+00:15:40,430 --> 00:15:42,850
+that advertisers are as successful
+as possible.
+
+278
+00:15:42,940 --> 00:15:45,560
+This is a new kind of marketplace now.
+
+279
+00:15:45,650 --> 00:15:48,070
+It's a marketplace
+that never existed before.
+
+280
+00:15:48,820 --> 00:15:55,370
+And it's a marketplace
+that trades exclusively in human futures.
+
+281
+00:15:56,080 --> 00:16:01,580
+Just like there are markets that trade
+in pork belly futures or oil futures.
+
+282
+00:16:02,120 --> 00:16:07,590
+We now have markets
+that trade in human futures at scale,
+
+283
+00:16:08,170 --> 00:16:13,470
+and those markets have produced
+the trillions of dollars
+
+284
+00:16:14,010 --> 00:16:19,260
+that have made the Internet companies
+the richest companies
+
+285
+00:16:19,350 --> 00:16:22,350
+in the history of humanity.
+
+286
+00:16:27,360 --> 00:16:30,990
+What I want people to know
+is that everything they're doing online
+
+287
+00:16:31,070 --> 00:16:34,320
+is being watched, is being tracked,
+is being measured.
+
+288
+00:16:35,030 --> 00:16:39,620
+Every single action you take
+is carefully monitored and recorded.
+
+289
+00:16:39,700 --> 00:16:43,830
+Exactly what image you stop and look at,
+for how long you look at it.
+
+290
+00:16:43,910 --> 00:16:45,790
+Oh, yeah, seriously,
+for how long you look at it.
+
+291
+00:16:50,500 --> 00:16:52,210
+They know
+when people are lonely.
+
+292
+00:16:52,300 --> 00:16:53,800
+They know when people are depressed.
+
+293
+00:16:53,880 --> 00:16:57,090
+They know when people are looking
+at photos of your ex-romantic partners.
+
+294
+00:16:57,180 --> 00:17:00,850
+They know what you're doing late at night.
+They know the entire thing.
+
+295
+00:17:01,270 --> 00:17:03,230
+Whether you're an introvert
+or an extrovert,
+
+296
+00:17:03,310 --> 00:17:06,810
+or what kind of neuroses you have,
+what your personality type is like.
+
+297
+00:17:08,190 --> 00:17:11,610
+They have more information
+about us
+
+298
+00:17:11,690 --> 00:17:14,320
+than has ever been imagined
+in human history.
+
+299
+00:17:14,950 --> 00:17:16,360
+It is unprecedented.
+
+300
+00:17:18,570 --> 00:17:22,790
+And so, all of this data that we're...
+that we're just pouring out all the time
+
+301
+00:17:22,870 --> 00:17:26,750
+is being fed into these systems
+that have almost no human supervision
+
+302
+00:17:27,460 --> 00:17:30,880
+and that are making better and better
+and better and better predictions
+
+303
+00:17:30,960 --> 00:17:33,550
+about what we're gonna do
+and... and who we are.
+
+304
+00:17:36,300 --> 00:17:39,340
+People have the misconception
+it's our data being sold.
+
+305
+00:17:40,350 --> 00:17:43,180
+It's not in Facebook's business interest
+to give up the data.
+
+306
+00:17:45,520 --> 00:17:47,100
+What do they do with that data?
+
+307
+00:17:51,070 --> 00:17:54,490
+They build models
+that predict our actions,
+
+308
+00:17:54,570 --> 00:17:57,610
+and whoever has the best model wins.
+
+309
+00:18:02,700 --> 00:18:04,040
+His scrolling speed is slowing.
+
+310
+00:18:04,120 --> 00:18:06,080
+Nearing the end
+of his average session length.
+
+311
+00:18:06,160 --> 00:18:07,000
+Decreasing ad load.
+
+312
+00:18:07,080 --> 00:18:08,330
+Pull back on friends and family.
+
+313
+00:18:09,580 --> 00:18:11,340
+On the other side of the screen,
+
+314
+00:18:11,420 --> 00:18:15,460
+it's almost as if they had
+this avatar voodoo doll-like model of us.
+
+315
+00:18:16,840 --> 00:18:18,180
+All of the things we've ever done,
+
+316
+00:18:18,260 --> 00:18:19,470
+all the clicks we've ever made,
+
+317
+00:18:19,550 --> 00:18:21,640
+all the videos we've watched,
+all the likes,
+
+318
+00:18:21,720 --> 00:18:25,350
+that all gets brought back into building
+a more and more accurate model.
+
+319
+00:18:25,890 --> 00:18:27,480
+The model, once you have it,
+
+320
+00:18:27,560 --> 00:18:29,850
+you can predict the kinds of things
+that person does.
+
+321
+00:18:29,940 --> 00:18:31,770
+Right, let me just test.
+
+322
+00:18:32,560 --> 00:18:34,980
+Where you'll go.
+I can predict what kind of videos
+
+323
+00:18:35,070 --> 00:18:36,110
+will keep you watching.
+
+324
+00:18:36,190 --> 00:18:39,150
+I can predict what kinds of emotions tend
+to trigger you.
+
+325
+00:18:39,240 --> 00:18:40,410
+Yes, perfect.
+
+326
+00:18:41,570 --> 00:18:43,370
+The most epic fails of the year.
+
+327
+00:18:48,620 --> 00:18:51,080
+-Perfect. That worked.
+-Following with another video.
+
+328
+00:18:51,170 --> 00:18:54,040
+Beautiful. Let's squeeze in a sneaker ad
+before it starts.
+
+329
+00:18:56,420 --> 00:18:58,170
+At a lot
+of technology companies,
+
+330
+00:18:58,260 --> 00:18:59,720
+there's three main goals.
+
+331
+00:18:59,800 --> 00:19:01,340
+There's the engagement goal:
+
+332
+00:19:01,430 --> 00:19:03,680
+to drive up your usage,
+to keep you scrolling.
+
+333
+00:19:04,600 --> 00:19:06,140
+There's the growth goal:
+
+334
+00:19:06,220 --> 00:19:08,680
+to keep you coming back
+and inviting as many friends
+
+335
+00:19:08,770 --> 00:19:10,810
+and getting them to invite more friends.
+
+336
+00:19:11,650 --> 00:19:13,150
+And then there's the advertising goal:
+
+337
+00:19:13,230 --> 00:19:14,980
+to make sure that,
+as all that's happening,
+
+338
+00:19:15,070 --> 00:19:17,400
+we're making as much money as possible
+from advertising.
+
+339
+00:19:19,240 --> 00:19:21,990
+Each of these goals are powered
+by algorithms
+
+340
+00:19:22,070 --> 00:19:24,450
+whose job is to figure out
+what to show you
+
+341
+00:19:24,530 --> 00:19:26,160
+to keep those numbers going up.
+
+342
+00:19:26,620 --> 00:19:29,910
+We often talked about, at Facebook,
+this idea
+
+343
+00:19:30,000 --> 00:19:34,000
+of being able to just dial that as needed.
+
+344
+00:19:34,670 --> 00:19:38,590
+And, you know, we talked
+about having Mark have those dials.
+
+345
+00:19:41,300 --> 00:19:44,470
+"Hey, I want more users in Korea today."
+
+346
+00:19:45,680 --> 00:19:46,600
+"Turn the dial."
+
+347
+00:19:47,430 --> 00:19:49,180
+"Let's dial up the ads a little bit."
+
+348
+00:19:49,980 --> 00:19:51,890
+"Dial up monetization, just slightly."
+
+349
+00:19:52,850 --> 00:19:55,440
+And so, that happ--
+
+350
+00:19:55,520 --> 00:19:59,230
+I mean, at all of these companies,
+there is that level of precision.
+
+351
+00:19:59,990 --> 00:20:02,400
+-Dude, how--
+-I don't know how I didn't get carded.
+
+352
+00:20:02,490 --> 00:20:05,700
+-That ref just, like, sucked or something.
+-You got literally all the way...
+
+353
+00:20:05,780 --> 00:20:07,950
+-That's Rebecca. Go talk to her.
+-I know who it is.
+
+354
+00:20:08,040 --> 00:20:10,830
+-Dude, yo, go talk to her.
+- I'm workin' on it.
+
+355
+00:20:10,910 --> 00:20:14,170
+His calendar says he's on a break
+right now. We should be live.
+
+356
+00:20:14,750 --> 00:20:16,460
+Want me to nudge him?
+
+357
+00:20:17,130 --> 00:20:18,050
+Yeah, nudge away.
+
+358
+00:20:21,630 --> 00:20:24,180
+"Your friend Tyler just joined.
+Say hi with a wave."
+
+359
+00:20:26,010 --> 00:20:27,180
+Come on, Ben.
+
+360
+00:20:27,260 --> 00:20:29,310
+Send a wave.
+
+361
+00:20:29,390 --> 00:20:32,600
+-You're not... Go talk to her, dude.
+
+362
+00:20:38,070 --> 00:20:40,440
+New link! All right, we're on.
+
+363
+00:20:40,940 --> 00:20:46,070
+Follow that up with a post
+from User 079044238820, Rebecca.
+
+364
+00:20:46,160 --> 00:20:49,790
+Good idea. GPS coordinates indicate
+that they're in close proximity.
+
+365
+00:20:55,920 --> 00:20:57,170
+He's primed for an ad.
+
+366
+00:20:57,630 --> 00:20:58,630
+Auction time.
+
+367
+00:21:00,130 --> 00:21:02,800
+Sold! To Deep Fade hair wax.
+
+368
+00:21:03,380 --> 00:21:07,930
+We had 468 interested bidders. We sold Ben
+at 3.262 cents for an impression.
+
+369
+00:21:17,100 --> 00:21:18,730
+We've created a world
+
+370
+00:21:18,810 --> 00:21:21,530
+in which online connection
+has become primary,
+
+371
+00:21:22,070 --> 00:21:23,900
+especially for younger generations.
+
+372
+00:21:23,990 --> 00:21:28,320
+And yet, in that world,
+any time two people connect,
+
+373
+00:21:29,160 --> 00:21:33,250
+the only way it's financed
+is through a sneaky third person
+
+374
+00:21:33,330 --> 00:21:35,620
+who's paying to manipulate
+those two people.
+
+375
+00:21:36,120 --> 00:21:39,380
+So, we've created
+an entire global generation of people
+
+376
+00:21:39,460 --> 00:21:44,010
+who are raised within a context
+where the very meaning of communication,
+
+377
+00:21:44,090 --> 00:21:47,430
+the very meaning of culture,
+is manipulation.
+
+378
+00:21:47,510 --> 00:21:49,640
+We've put deceit and sneakiness
+
+379
+00:21:49,720 --> 00:21:52,310
+at the absolute center
+of everything we do.
+
+380
+00:22:05,610 --> 00:22:07,240
+- Grab the...
+- Okay.
+
+381
+00:22:07,320 --> 00:22:09,280
+-Where's it help to hold it?
+- Great.
+
+382
+00:22:09,360 --> 00:22:10,780
+- Here?
+- Yeah.
+
+383
+00:22:10,870 --> 00:22:13,830
+How does this come across on camera
+if I were to do, like, this move--
+
+384
+00:22:13,910 --> 00:22:15,540
+- We can--
+- Like that?
+
+385
+00:22:15,620 --> 00:22:16,910
+- What?
+-Yeah.
+
+386
+00:22:17,000 --> 00:22:19,000
+- Do that again.
+-Exactly. Yeah.
+
+387
+00:22:19,080 --> 00:22:20,580
+Yeah. No, it's probably not...
+
+388
+00:22:20,670 --> 00:22:21,960
+Like... yeah.
+
+389
+00:22:22,460 --> 00:22:23,880
+I mean, this one is less...
+
+390
+00:22:29,680 --> 00:22:33,260
+Larissa's, like,
+actually freaking out over here.
+
+391
+00:22:34,720 --> 00:22:35,560
+Is that good?
+
+392
+00:22:37,850 --> 00:22:41,060
+I was, like, five years old
+when I learned how to do magic.
+
+393
+00:22:41,150 --> 00:22:45,780
+And I could fool adults,
+fully-grown adults with, like, PhDs.
+
+394
+00:22:55,040 --> 00:22:57,700
+Magicians were almost like
+the first neuroscientists
+
+395
+00:22:57,790 --> 00:22:58,960
+and psychologists.
+
+396
+00:22:59,040 --> 00:23:02,000
+Like, they were the ones
+who first understood
+
+397
+00:23:02,080 --> 00:23:03,380
+how people's minds work.
+
+398
+00:23:04,210 --> 00:23:07,670
+They just, in real time, are testing
+lots and lots of stuff on people.
+
+399
+00:23:09,130 --> 00:23:11,130
+A magician understands something,
+
+400
+00:23:11,220 --> 00:23:14,010
+some part of your mind
+that we're not aware of.
+
+401
+00:23:14,100 --> 00:23:15,930
+That's what makes the illusion work.
+
+402
+00:23:16,010 --> 00:23:20,600
+Doctors, lawyers, people who know
+how to build 747s or nuclear missiles,
+
+403
+00:23:20,690 --> 00:23:24,360
+they don't know more about
+how their own mind is vulnerable.
+
+404
+00:23:24,440 --> 00:23:26,110
+That's a separate discipline.
+
+405
+00:23:26,570 --> 00:23:28,990
+And it's a discipline
+that applies to all human beings.
+
+406
+00:23:30,900 --> 00:23:34,070
+From that perspective, you can have
+a very different understanding
+
+407
+00:23:34,160 --> 00:23:35,580
+of what technology is doing.
+
+408
+00:23:36,870 --> 00:23:39,580
+When I was
+at the Stanford Persuasive Technology Lab,
+
+409
+00:23:39,660 --> 00:23:41,040
+this is what we learned.
+
+410
+00:23:41,620 --> 00:23:43,460
+How could you use everything we know
+
+411
+00:23:43,540 --> 00:23:45,880
+about the psychology
+of what persuades people
+
+412
+00:23:45,960 --> 00:23:48,380
+and build that into technology?
+
+413
+00:23:48,460 --> 00:23:50,880
+Now, many of you in the audience
+are geniuses already.
+
+414
+00:23:50,970 --> 00:23:55,850
+I think that's true, but my goal is
+to turn you into a behavior-change genius.
+
+415
+00:23:56,850 --> 00:24:01,140
+There are many prominent Silicon Valley
+figures who went through that class--
+
+416
+00:24:01,230 --> 00:24:05,480
+key growth figures at Facebook and Uber
+and... and other companies--
+
+417
+00:24:05,560 --> 00:24:09,190
+and learned how to make technology
+more persuasive,
+
+418
+00:24:09,610 --> 00:24:10,780
+Tristan being one.
+
+419
+00:24:12,280 --> 00:24:14,610
+Persuasive technology
+is just sort of design
+
+420
+00:24:14,700 --> 00:24:16,580
+intentionally applied to the extreme,
+
+421
+00:24:16,660 --> 00:24:18,870
+where we really want to modify
+someone's behavior.
+
+422
+00:24:18,950 --> 00:24:20,540
+We want them to take this action.
+
+423
+00:24:20,620 --> 00:24:23,330
+We want them to keep doing this
+with their finger.
+
+424
+00:24:23,420 --> 00:24:26,250
+You pull down and you refresh,
+it's gonna be a new thing at the top.
+
+425
+00:24:26,330 --> 00:24:28,500
+Pull down and refresh again, it's new.
+Every single time.
+
+426
+00:24:28,590 --> 00:24:33,720
+Which, in psychology, we call
+a positive intermittent reinforcement.
+
+427
+00:24:33,800 --> 00:24:37,140
+You don't know when you're gonna get it
+or if you're gonna get something,
+
+428
+00:24:37,220 --> 00:24:40,060
+which operates just like the slot machines
+in Vegas.
+
+429
+00:24:40,140 --> 00:24:42,230
+It's not enough
+that you use the product consciously,
+
+430
+00:24:42,310 --> 00:24:44,020
+I wanna dig down deeper
+into the brain stem
+
+431
+00:24:44,100 --> 00:24:45,810
+and implant, inside of you,
+
+432
+00:24:45,900 --> 00:24:47,650
+an unconscious habit
+
+433
+00:24:47,730 --> 00:24:50,860
+so that you are being programmed
+at a deeper level.
+
+434
+00:24:50,940 --> 00:24:52,110
+You don't even realize it.
+
+435
+00:24:52,530 --> 00:24:54,030
+A man, James Marshall...
+
+436
+00:24:54,110 --> 00:24:56,280
+Every time you see it there
+on the counter,
+
+437
+00:24:56,360 --> 00:24:59,780
+and you just look at it,
+and you know if you reach over,
+
+438
+00:24:59,870 --> 00:25:01,330
+it just might have something for you,
+
+439
+00:25:01,410 --> 00:25:03,870
+so you play that slot machine
+to see what you got, right?
+
+440
+00:25:03,960 --> 00:25:06,040
+That's not by accident.
+That's a design technique.
+
+441
+00:25:06,120 --> 00:25:08,630
+He brings a golden nugget
+to an officer
+
+442
+00:25:09,840 --> 00:25:11,300
+in the army in San Francisco.
+
+443
+00:25:12,210 --> 00:25:15,380
+Mind you, the... the population
+of San Francisco was only...
+
+444
+00:25:15,470 --> 00:25:17,430
+Another example is photo tagging.
+
+445
+00:25:17,510 --> 00:25:19,640
+- The secret didn't last.
+
+446
+00:25:19,720 --> 00:25:21,180
+So, if you get an e-mail
+
+447
+00:25:21,260 --> 00:25:24,060
+that says your friend just tagged you
+in a photo,
+
+448
+00:25:24,140 --> 00:25:28,560
+of course you're going to click
+on that e-mail and look at the photo.
+
+449
+00:25:29,150 --> 00:25:31,820
+It's not something
+you can just decide to ignore.
+
+450
+00:25:32,360 --> 00:25:34,150
+This is deep-seated, like,
+
+451
+00:25:34,240 --> 00:25:36,320
+human personality
+that they're tapping into.
+
+452
+00:25:36,400 --> 00:25:38,070
+What you should be asking yourself is:
+
+453
+00:25:38,160 --> 00:25:40,280
+"Why doesn't that e-mail contain
+the photo in it?
+
+454
+00:25:40,370 --> 00:25:42,450
+It would be a lot easier
+to see the photo."
+
+455
+00:25:42,540 --> 00:25:45,910
+When Facebook found that feature,
+they just dialed the hell out of that
+
+456
+00:25:46,000 --> 00:25:48,500
+because they said, "This is gonna be
+a great way to grow activity.
+
+457
+00:25:48,580 --> 00:25:51,090
+Let's just get people tagging each other
+in photos all day long."
+
+458
+00:25:59,340 --> 00:26:00,470
+He commented.
+
+459
+00:26:00,550 --> 00:26:01,430
+Nice.
+
+460
+00:26:01,930 --> 00:26:04,680
+Okay, Rebecca received it,
+and she is responding.
+
+461
+00:26:04,770 --> 00:26:07,560
+All right, let Ben know that she's typing
+so we don't lose him.
+
+462
+00:26:07,640 --> 00:26:08,730
+Activating ellipsis.
+
+463
+00:26:19,950 --> 00:26:21,320
+Great, she posted.
+
+464
+00:26:21,450 --> 00:26:24,240
+He's commenting on her comment
+about his comment on her post.
+
+465
+00:26:25,040 --> 00:26:26,410
+Hold on, he stopped typing.
+
+466
+00:26:26,750 --> 00:26:27,750
+Let's autofill.
+
+467
+00:26:28,420 --> 00:26:30,000
+Emojis. He loves emojis.
+
+468
+00:26:33,840 --> 00:26:34,670
+He went with fire.
+
+469
+00:26:34,750 --> 00:26:36,800
+I was rootin' for eggplant.
+
+470
+00:26:38,590 --> 00:26:42,720
+There's an entire discipline
+and field called "growth hacking."
+
+471
+00:26:42,800 --> 00:26:47,140
+Teams of engineers
+whose job is to hack people's psychology
+
+472
+00:26:47,230 --> 00:26:48,560
+so they can get more growth.
+
+473
+00:26:48,640 --> 00:26:50,980
+They can get more user sign-ups,
+more engagement.
+
+474
+00:26:51,060 --> 00:26:52,860
+They can get you to invite more people.
+
+475
+00:26:52,940 --> 00:26:55,980
+After all the testing, all the iterating,
+all of this stuff,
+
+476
+00:26:56,070 --> 00:26:57,900
+you know the single biggest thing
+we realized?
+
+477
+00:26:57,990 --> 00:27:00,700
+Get any individual to seven friends
+in ten days.
+
+478
+00:27:01,950 --> 00:27:02,780
+That was it.
+
+479
+00:27:02,870 --> 00:27:05,490
+Chamath was the head of growth at Facebook
+early on,
+
+480
+00:27:05,580 --> 00:27:08,250
+and he's very well known
+in the tech industry
+
+481
+00:27:08,330 --> 00:27:11,000
+for pioneering a lot of the growth tactics
+
+482
+00:27:11,080 --> 00:27:14,750
+that were used to grow Facebook
+at incredible speed.
+
+483
+00:27:14,840 --> 00:27:18,550
+And those growth tactics have then become
+the standard playbook for Silicon Valley.
+
+484
+00:27:18,630 --> 00:27:21,220
+They were used at Uber
+and at a bunch of other companies.
+
+485
+00:27:21,300 --> 00:27:27,060
+One of the things that he pioneered
+was the use of scientific A/B testing
+
+486
+00:27:27,140 --> 00:27:28,480
+of small feature changes.
+
+487
+00:27:29,020 --> 00:27:30,940
+Companies like Google and Facebook
+
+488
+00:27:31,020 --> 00:27:34,560
+would roll out
+lots of little, tiny experiments
+
+489
+00:27:34,650 --> 00:27:36,820
+that they were constantly doing on users.
+
+490
+00:27:36,900 --> 00:27:39,860
+And over time,
+by running these constant experiments,
+
+491
+00:27:39,940 --> 00:27:43,030
+you... you develop the most optimal way
+
+492
+00:27:43,110 --> 00:27:45,280
+to get users to do
+what you want them to do.
+
+493
+00:27:45,370 --> 00:27:46,790
+It's... It's manipulation.
+
+494
+00:27:47,330 --> 00:27:49,450
+Uh, you're making me feel like a lab rat.
+
+495
+00:27:49,830 --> 00:27:51,920
+You are a lab rat. We're all lab rats.
+
+496
+00:27:52,540 --> 00:27:55,540
+And it's not like we're lab rats
+for developing a cure for cancer.
+
+497
+00:27:55,630 --> 00:27:58,130
+It's not like they're trying
+to benefit us.
+
+498
+00:27:58,210 --> 00:28:01,680
+Right? We're just zombies,
+and they want us to look at more ads
+
+499
+00:28:01,760 --> 00:28:03,180
+so they can make more money.
+
+500
+00:28:03,550 --> 00:28:05,260
+Facebook conducted
+
+501
+00:28:05,350 --> 00:28:08,220
+what they called
+"massive-scale contagion experiments."
+
+502
+00:28:08,310 --> 00:28:09,140
+Okay.
+
+503
+00:28:09,220 --> 00:28:13,060
+How do we use subliminal cues
+on the Facebook pages
+
+504
+00:28:13,400 --> 00:28:17,650
+to get more people to go vote
+in the midterm elections?
+
+505
+00:28:17,980 --> 00:28:20,820
+And they discovered
+that they were able to do that.
+
+506
+00:28:20,900 --> 00:28:24,160
+One thing they concluded
+is that we now know
+
+507
+00:28:24,740 --> 00:28:28,910
+we can affect real-world behavior
+and emotions
+
+508
+00:28:28,990 --> 00:28:32,870
+without ever triggering
+the user's awareness.
+
+509
+00:28:33,370 --> 00:28:37,380
+They are completely clueless.
+
+510
+00:28:38,040 --> 00:28:41,970
+We're pointing these engines of AI
+back at ourselves
+
+511
+00:28:42,050 --> 00:28:46,220
+to reverse-engineer what elicits responses
+from us.
+
+512
+00:28:47,100 --> 00:28:49,560
+Almost like you're stimulating nerve cells
+on a spider
+
+513
+00:28:49,640 --> 00:28:51,470
+to see what causes its legs to respond.
+
+514
+00:28:51,930 --> 00:28:53,940
+So, it really is
+this kind of prison experiment
+
+515
+00:28:54,020 --> 00:28:56,730
+where we're just, you know,
+roping people into the matrix,
+
+516
+00:28:56,810 --> 00:29:00,570
+and we're just harvesting all this money
+and... and data from all their activity
+
+517
+00:29:00,650 --> 00:29:01,480
+to profit from.
+
+518
+00:29:01,570 --> 00:29:03,450
+And we're not even aware
+that it's happening.
+
+519
+00:29:04,110 --> 00:29:07,910
+So, we want to psychologically figure out
+how to manipulate you as fast as possible
+
+520
+00:29:07,990 --> 00:29:10,080
+and then give you back that dopamine hit.
+
+521
+00:29:10,160 --> 00:29:12,370
+We did that brilliantly at Facebook.
+
+522
+00:29:12,620 --> 00:29:14,910
+Instagram has done it.
+WhatsApp has done it.
+
+523
+00:29:15,000 --> 00:29:17,380
+You know, Snapchat has done it.
+Twitter has done it.
+
+524
+00:29:17,460 --> 00:29:19,420
+I mean, it's exactly the kind of thing
+
+525
+00:29:19,500 --> 00:29:22,420
+that a... that a hacker like myself
+would come up with
+
+526
+00:29:22,510 --> 00:29:27,010
+because you're exploiting a vulnerability
+in... in human psychology.
+
+527
+00:29:27,800 --> 00:29:29,720
+And I just...
+I think that we...
+
+528
+00:29:29,800 --> 00:29:33,430
+you know, the inventors, creators...
+
+529
+00:29:33,980 --> 00:29:37,310
+uh, you know, and it's me, it's Mark,
+it's the...
+
+530
+00:29:37,400 --> 00:29:40,400
+you know, Kevin Systrom at Instagram...
+It's all of these people...
+
+531
+00:29:40,480 --> 00:29:46,450
+um, understood this consciously,
+and we did it anyway.
+
+532
+00:29:50,580 --> 00:29:53,750
+No one got upset when bicycles showed up.
+
+533
+00:29:55,040 --> 00:29:58,000
+Right? Like, if everyone's starting
+to go around on bicycles,
+
+534
+00:29:58,080 --> 00:30:00,920
+no one said,
+"Oh, my God, we've just ruined society.
+
+535
+00:30:01,000 --> 00:30:03,050
+Like, bicycles are affecting people.
+
+536
+00:30:03,130 --> 00:30:05,300
+They're pulling people
+away from their kids.
+
+537
+00:30:05,380 --> 00:30:08,720
+They're ruining the fabric of democracy.
+People can't tell what's true."
+
+538
+00:30:08,800 --> 00:30:11,470
+Like, we never said any of that stuff
+about a bicycle.
+
+539
+00:30:12,760 --> 00:30:16,140
+If something is a tool,
+it genuinely is just sitting there,
+
+540
+00:30:16,730 --> 00:30:18,730
+waiting patiently.
+
+541
+00:30:19,310 --> 00:30:22,820
+If something is not a tool,
+it's demanding things from you.
+
+542
+00:30:22,900 --> 00:30:26,530
+It's seducing you. It's manipulating you.
+It wants things from you.
+
+543
+00:30:26,950 --> 00:30:30,490
+And we've moved away from having
+a tools-based technology environment
+
+544
+00:30:31,030 --> 00:30:34,490
+to an addiction- and manipulation-based
+technology environment.
+
+545
+00:30:34,580 --> 00:30:35,700
+That's what's changed.
+
+546
+00:30:35,790 --> 00:30:39,420
+Social media isn't a tool
+that's just waiting to be used.
+
+547
+00:30:39,500 --> 00:30:43,460
+It has its own goals,
+and it has its own means of pursuing them
+
+548
+00:30:43,550 --> 00:30:45,670
+by using your psychology against you.
+
+549
+00:30:57,560 --> 00:31:00,560
+Rewind a few years ago,
+I was the...
+
+550
+00:31:00,650 --> 00:31:02,310
+I was the president of Pinterest.
+
+551
+00:31:03,150 --> 00:31:05,110
+I was coming home,
+
+552
+00:31:05,190 --> 00:31:08,360
+and I couldn't get off my phone
+once I got home,
+
+553
+00:31:08,440 --> 00:31:12,160
+despite having two young kids
+who needed my love and attention.
+
+554
+00:31:12,240 --> 00:31:15,740
+I was in the pantry, you know,
+typing away on an e-mail
+
+555
+00:31:15,830 --> 00:31:17,540
+or sometimes looking at Pinterest.
+
+556
+00:31:18,000 --> 00:31:19,620
+I thought, "God, this is classic irony.
+
+557
+00:31:19,710 --> 00:31:22,040
+I am going to work during the day
+
+558
+00:31:22,130 --> 00:31:26,420
+and building something
+that then I am falling prey to."
+
+559
+00:31:26,500 --> 00:31:30,090
+And I couldn't... I mean, some
+of those moments, I couldn't help myself.
+
+560
+00:31:32,300 --> 00:31:36,100
+The one
+that I'm... I'm most prone to is Twitter.
+
+561
+00:31:36,180 --> 00:31:38,020
+Uh, used to be Reddit.
+
+562
+00:31:38,100 --> 00:31:42,850
+I actually had to write myself software
+to break my addiction to reading Reddit.
+
+563
+00:31:45,400 --> 00:31:47,780
+I'm probably most addicted to my e-mail.
+
+564
+00:31:47,860 --> 00:31:49,860
+I mean, really. I mean, I... I feel it.
+
+565
+00:31:52,570 --> 00:31:54,950
+Well, I mean, it's sort-- it's interesting
+
+566
+00:31:55,030 --> 00:31:58,160
+that knowing what was going on
+behind the curtain,
+
+567
+00:31:58,240 --> 00:32:01,620
+I still wasn't able to control my usage.
+
+568
+00:32:01,710 --> 00:32:03,040
+So, that's a little scary.
+
+569
+00:32:03,630 --> 00:32:07,050
+Even knowing how these tricks work,
+I'm still susceptible to them.
+
+570
+00:32:07,130 --> 00:32:09,880
+I'll still pick up the phone,
+and 20 minutes will disappear.
+
+571
+00:32:12,800 --> 00:32:15,720
+Do you check your smartphone
+before you pee in the morning
+
+572
+00:32:15,800 --> 00:32:17,470
+or while you're peeing in the morning?
+
+573
+00:32:17,560 --> 00:32:19,470
+'Cause those are the only two choices.
+
+574
+00:32:19,560 --> 00:32:23,270
+I tried through willpower,
+just pure willpower...
+
+575
+00:32:23,350 --> 00:32:26,900
+"I'll put down my phone, I'll leave
+my phone in the car when I get home."
+
+576
+00:32:26,980 --> 00:32:30,570
+I think I told myself a thousand times,
+a thousand different days,
+
+577
+00:32:30,650 --> 00:32:32,610
+"I am not gonna bring my phone
+to the bedroom,"
+
+578
+00:32:32,700 --> 00:32:34,530
+and then 9:00 p.m. rolls around.
+
+579
+00:32:34,610 --> 00:32:37,120
+"Well, I wanna bring my phone
+in the bedroom."
+
+580
+00:32:37,200 --> 00:32:39,290
+And so, that was sort of...
+
+581
+00:32:39,370 --> 00:32:41,120
+Willpower was kind of attempt one,
+
+582
+00:32:41,200 --> 00:32:44,290
+and then attempt two was,
+you know, brute force.
+
+583
+00:32:44,370 --> 00:32:48,090
+Introducing the Kitchen Safe.
+The Kitchen Safe is a revolutionary,
+
+584
+00:32:48,170 --> 00:32:51,670
+new, time-locking container
+that helps you fight temptation.
+
+585
+00:32:51,760 --> 00:32:56,720
+All David has to do is place
+those temptations in the Kitchen Safe.
+
+586
+00:32:57,390 --> 00:33:00,390
+Next, he rotates the dial
+to set the timer.
+
+587
+00:33:01,470 --> 00:33:04,230
+And, finally, he presses the dial
+to activate the lock.
+
+588
+00:33:04,310 --> 00:33:05,520
+The Kitchen Safe is great...
+
+589
+00:33:05,600 --> 00:33:06,770
+We have that, don't we?
+
+590
+00:33:06,850 --> 00:33:08,650
+...video games, credit cards,
+and cell phones.
+
+591
+00:33:08,730 --> 00:33:09,650
+Yeah, we do.
+
+592
+00:33:09,730 --> 00:33:12,400
+Once the Kitchen Safe
+is locked, it cannot be opened
+
+593
+00:33:12,490 --> 00:33:13,860
+until the timer reaches zero.
+
+594
+00:33:13,950 --> 00:33:15,610
+So, here's the thing.
+
+595
+00:33:15,700 --> 00:33:17,530
+Social media is a drug.
+
+596
+00:33:17,620 --> 00:33:20,870
+I mean,
+we have a basic biological imperative
+
+597
+00:33:20,950 --> 00:33:23,080
+to connect with other people.
+
+598
+00:33:23,160 --> 00:33:28,210
+That directly affects the release
+of dopamine in the reward pathway.
+
+599
+00:33:28,290 --> 00:33:32,550
+Millions of years of evolution, um,
+are behind that system
+
+600
+00:33:32,630 --> 00:33:35,590
+to get us to come together
+and live in communities,
+
+601
+00:33:35,680 --> 00:33:38,010
+to find mates, to propagate our species.
+
+602
+00:33:38,090 --> 00:33:41,850
+So, there's no doubt
+that a vehicle like social media,
+
+603
+00:33:41,930 --> 00:33:45,690
+which optimizes this connection
+between people,
+
+604
+00:33:45,770 --> 00:33:48,560
+is going to have the potential
+for addiction.
+
+605
+00:33:52,070 --> 00:33:54,110
+-Mmm!
+-Dad, stop!
+
+606
+00:33:55,450 --> 00:33:58,450
+I have, like, 1,000 more snips
+to send before dinner.
+
+607
+00:33:58,530 --> 00:34:00,780
+- Snips?
+-I don't know what a snip is.
+
+608
+00:34:00,870 --> 00:34:03,200
+-Mm, that smells good, baby.
+-All right. Thank you.
+
+609
+00:34:03,290 --> 00:34:05,870
+I was, um, thinking we could use
+all five senses
+
+610
+00:34:05,960 --> 00:34:07,710
+to enjoy our dinner tonight.
+
+611
+00:34:07,790 --> 00:34:11,380
+So, I decided that we're not gonna have
+any cell phones at the table tonight.
+
+612
+00:34:11,460 --> 00:34:13,300
+So, turn 'em in.
+
+613
+00:34:13,800 --> 00:34:14,800
+-Really?
+- Yep.
+
+614
+00:34:15,920 --> 00:34:18,050
+-All right.
+-Thank you. Ben?
+
+615
+00:34:18,130 --> 00:34:20,430
+-Okay.
+-Mom, the phone pirate.
+
+616
+00:34:21,100 --> 00:34:21,930
+-Got it.
+-Mom!
+
+617
+00:34:22,510 --> 00:34:26,140
+So, they will be safe in here
+until after dinner...
+
+618
+00:34:27,270 --> 00:34:30,650
+-and everyone can just chill out.
+
+619
+00:34:30,730 --> 00:34:31,560
+Okay?
+
+620
+00:34:47,410 --> 00:34:49,250
+-Can I just see who it is?
+-No.
+
+621
+00:34:54,750 --> 00:34:56,960
+Just gonna go get another fork.
+
+622
+00:34:58,300 --> 00:34:59,260
+Thank you.
+
+623
+00:35:04,720 --> 00:35:06,770
+Honey, you can't open that.
+
+624
+00:35:06,850 --> 00:35:09,310
+I locked it for an hour,
+so just leave it alone.
+
+625
+00:35:11,190 --> 00:35:13,360
+So, what should we talk about?
+
+626
+00:35:13,440 --> 00:35:14,690
+Well, we could talk
+
+627
+00:35:14,770 --> 00:35:17,610
+about the, uh, Extreme Center wackos
+I drove by today.
+
+628
+00:35:17,690 --> 00:35:18,820
+- Please, Frank.
+-What?
+
+629
+00:35:18,900 --> 00:35:20,780
+I don't wanna talk about politics.
+
+630
+00:35:20,860 --> 00:35:23,530
+-What's wrong with the Extreme Center?
+-See? He doesn't even get it.
+
+631
+00:35:23,620 --> 00:35:24,620
+It depends on who you ask.
+
+632
+00:35:24,700 --> 00:35:26,620
+It's like asking,
+"What's wrong with propaganda?"
+
+633
+00:35:28,700 --> 00:35:29,710
+Isla!
+
+634
+00:35:32,790 --> 00:35:33,750
+Oh, my God.
+
+635
+00:35:36,420 --> 00:35:38,550
+- Do you want me to...
+- Yeah.
+
+636
+00:35:41,970 --> 00:35:43,930
+I... I'm worried about my kids.
+
+637
+00:35:44,010 --> 00:35:46,680
+And if you have kids,
+I'm worried about your kids.
+
+638
+00:35:46,760 --> 00:35:50,180
+Armed with all the knowledge that I have
+and all of the experience,
+
+639
+00:35:50,270 --> 00:35:52,100
+I am fighting my kids about the time
+
+640
+00:35:52,190 --> 00:35:54,440
+that they spend on phones
+and on the computer.
+
+641
+00:35:54,520 --> 00:35:58,190
+I will say to my son, "How many hours do
+you think you're spending on your phone?"
+
+642
+00:35:58,280 --> 00:36:01,070
+He'll be like, "It's, like, half an hour.
+It's half an hour, tops."
+
+643
+00:36:01,150 --> 00:36:04,820
+I'd say upwards hour, hour and a half.
+
+644
+00:36:04,910 --> 00:36:06,780
+I looked at his screen report
+a couple weeks ago.
+
+645
+00:36:06,870 --> 00:36:08,700
+-Three hours and 45 minutes.
+- That...
+
+646
+00:36:11,370 --> 00:36:13,580
+I don't think that's...
+No. Per day, on average?
+
+647
+00:36:13,670 --> 00:36:15,500
+-Yeah.
+-Should I go get it right now?
+
+648
+00:36:15,590 --> 00:36:19,170
+There's not a day that goes by
+that I don't remind my kids
+
+649
+00:36:19,260 --> 00:36:21,760
+about the pleasure-pain balance,
+
+650
+00:36:21,840 --> 00:36:24,390
+about dopamine deficit states,
+
+651
+00:36:24,470 --> 00:36:26,260
+about the risk of addiction.
+
+652
+00:36:26,350 --> 00:36:27,310
+Moment of truth.
+
+653
+00:36:27,930 --> 00:36:29,680
+Two hours, 50 minutes per day.
+
+654
+00:36:29,770 --> 00:36:31,770
+-Let's see.
+-Actually, I've been using a lot today.
+
+655
+00:36:31,850 --> 00:36:33,350
+-Last seven days.
+-That's probably why.
+
+656
+00:36:33,440 --> 00:36:37,360
+Instagram, six hours, 13 minutes.
+Okay, so my Instagram's worse.
+
+657
+00:36:39,570 --> 00:36:41,990
+My screen's completely shattered.
+
+658
+00:36:42,200 --> 00:36:43,200
+Thanks, Cass.
+
+659
+00:36:44,410 --> 00:36:45,990
+What do you mean, "Thanks, Cass"?
+
+660
+00:36:46,070 --> 00:36:49,040
+You keep freaking Mom out about our phones
+when it's not really a problem.
+
+661
+00:36:49,370 --> 00:36:51,160
+We don't need our phones to eat dinner!
+
+662
+00:36:51,250 --> 00:36:53,870
+I get what you're saying.
+It's just not that big a deal. It's not.
+
+663
+00:36:56,040 --> 00:36:58,380
+If it's not that big a deal,
+don't use it for a week.
+
+664
+00:37:01,130 --> 00:37:06,340
+Yeah. Yeah, actually, if you can put
+that thing away for, like, a whole week...
+
+665
+00:37:07,720 --> 00:37:09,510
+I will buy you a new screen.
+
+666
+00:37:10,970 --> 00:37:12,890
+-Like, starting now?
+- Starting now.
+
+667
+00:37:15,140 --> 00:37:16,850
+-Okay. You got a deal.
+- Okay.
+
+668
+00:37:16,940 --> 00:37:19,110
+Okay, you gotta leave it here, though,
+buddy.
+
+669
+00:37:19,860 --> 00:37:21,360
+All right, I'm plugging it in.
+
+670
+00:37:22,530 --> 00:37:25,070
+Let the record show... I'm backing away.
+
+671
+00:37:25,150 --> 00:37:25,990
+Okay.
+
+672
+00:37:27,780 --> 00:37:29,410
+-You're on the clock.
+- One week.
+
+673
+00:37:29,490 --> 00:37:30,330
+Oh, my...
+
+674
+00:37:31,450 --> 00:37:32,410
+Think he can do it?
+
+675
+00:37:33,000 --> 00:37:34,250
+I don't know. We'll see.
+
+676
+00:37:35,000 --> 00:37:36,120
+Just eat, okay?
+
+677
+00:37:44,220 --> 00:37:45,260
+Good family dinner!
+
+678
+00:37:47,680 --> 00:37:49,800
+These technology products
+were not designed
+
+679
+00:37:49,890 --> 00:37:53,890
+by child psychologists who are trying
+to protect and nurture children.
+
+680
+00:37:53,980 --> 00:37:56,140
+They were just designing
+to make these algorithms
+
+681
+00:37:56,230 --> 00:37:58,730
+that were really good at recommending
+the next video to you
+
+682
+00:37:58,810 --> 00:38:02,320
+or really good at getting you
+to take a photo with a filter on it.
+
+683
+00:38:16,750 --> 00:38:18,870
+It's not just
+that it's controlling
+
+684
+00:38:18,960 --> 00:38:20,540
+where they spend their attention.
+
+685
+00:38:21,170 --> 00:38:26,300
+Especially social media starts to dig
+deeper and deeper down into the brain stem
+
+686
+00:38:26,380 --> 00:38:29,760
+and take over kids' sense of self-worth
+and identity.
+
+687
+00:38:52,370 --> 00:38:56,200
+We evolved to care about
+whether other people in our tribe...
+
+688
+00:38:56,750 --> 00:38:59,120
+think well of us or not
+'cause it matters.
+
+689
+00:38:59,830 --> 00:39:04,550
+But were we evolved to be aware
+of what 10,000 people think of us?
+
+690
+00:39:04,630 --> 00:39:08,760
+We were not evolved
+to have social approval being dosed to us
+
+691
+00:39:08,840 --> 00:39:10,340
+every five minutes.
+
+692
+00:39:10,430 --> 00:39:13,140
+That was not at all what we were built
+to experience.
+
+693
+00:39:15,390 --> 00:39:19,980
+We curate our lives
+around this perceived sense of perfection
+
+694
+00:39:20,730 --> 00:39:23,520
+because we get rewarded
+in these short-term signals--
+
+695
+00:39:23,610 --> 00:39:25,150
+hearts, likes, thumbs-up--
+
+696
+00:39:25,230 --> 00:39:28,400
+and we conflate that with value,
+and we conflate it with truth.
+
+697
+00:39:29,820 --> 00:39:33,120
+And instead, what it really is
+is fake, brittle popularity...
+
+698
+00:39:33,910 --> 00:39:37,450
+that's short-term and that leaves you
+even more, and admit it,
+
+699
+00:39:37,540 --> 00:39:39,910
+vacant and empty before you did it.
+
+700
+00:39:41,290 --> 00:39:43,380
+Because then it forces you
+into this vicious cycle
+
+701
+00:39:43,460 --> 00:39:47,170
+where you're like, "What's the next thing
+I need to do now? 'Cause I need it back."
+
+702
+00:39:48,260 --> 00:39:50,840
+Think about that compounded
+by two billion people,
+
+703
+00:39:50,930 --> 00:39:54,760
+and then think about how people react then
+to the perceptions of others.
+
+704
+00:39:54,850 --> 00:39:56,430
+It's just a... It's really bad.
+
+705
+00:39:56,970 --> 00:39:58,220
+It's really, really bad.
+
+706
+00:40:00,850 --> 00:40:03,480
+There has been
+a gigantic increase
+
+707
+00:40:03,560 --> 00:40:06,520
+in depression and anxiety
+for American teenagers
+
+708
+00:40:06,610 --> 00:40:10,950
+which began right around...
+between 2011 and 2013.
+
+709
+00:40:11,030 --> 00:40:15,370
+The number of teenage girls out of 100,000
+in this country
+
+710
+00:40:15,450 --> 00:40:17,120
+who were admitted to a hospital every year
+
+711
+00:40:17,200 --> 00:40:19,910
+because they cut themselves
+or otherwise harmed themselves,
+
+712
+00:40:20,000 --> 00:40:23,920
+that number was pretty stable
+until around 2010, 2011,
+
+713
+00:40:24,000 --> 00:40:25,750
+and then it begins going way up.
+
+714
+00:40:28,750 --> 00:40:32,510
+It's up 62 percent for older teen girls.
+
+715
+00:40:33,840 --> 00:40:38,310
+It's up 189 percent for the preteen girls.
+That's nearly triple.
+
+716
+00:40:40,310 --> 00:40:43,520
+Even more horrifying,
+we see the same pattern with suicide.
+
+717
+00:40:44,770 --> 00:40:47,570
+The older teen girls, 15 to 19 years old,
+
+718
+00:40:47,650 --> 00:40:49,190
+they're up 70 percent,
+
+719
+00:40:49,280 --> 00:40:51,690
+compared to the first decade
+of this century.
+
+720
+00:40:52,150 --> 00:40:55,070
+The preteen girls,
+who have very low rates to begin with,
+
+721
+00:40:55,160 --> 00:40:57,660
+they are up 151 percent.
+
+722
+00:40:58,830 --> 00:41:01,700
+And that pattern points to social media.
+
+723
+00:41:04,040 --> 00:41:07,210
+Gen Z, the kids born after 1996 or so,
+
+724
+00:41:07,290 --> 00:41:10,340
+those kids are the first generation
+in history
+
+725
+00:41:10,420 --> 00:41:12,630
+that got on social media in middle school.
+
+726
+00:41:15,890 --> 00:41:17,600
+How do they spend their time?
+
+727
+00:41:19,720 --> 00:41:22,730
+They come home from school,
+and they're on their devices.
+
+728
+00:41:24,310 --> 00:41:29,190
+A whole generation is more anxious,
+more fragile, more depressed.
+
+729
+00:41:30,610 --> 00:41:33,280
+They're much less comfortable
+taking risks.
+
+730
+00:41:34,320 --> 00:41:37,530
+The rates at which they get
+driver's licenses have been dropping.
+
+731
+00:41:38,950 --> 00:41:41,080
+The number
+who have ever gone out on a date
+
+732
+00:41:41,160 --> 00:41:44,250
+or had any kind of romantic interaction
+is dropping rapidly.
+
+733
+00:41:47,500 --> 00:41:49,710
+This is a real change in a generation.
+
+734
+00:41:53,170 --> 00:41:57,300
+And remember, for every one of these,
+for every hospital admission,
+
+735
+00:41:57,380 --> 00:42:00,260
+there's a family that is traumatized
+and horrified.
+
+736
+00:42:00,350 --> 00:42:02,350
+"My God, what is happening to our kids?"
+
+737
+00:42:19,410 --> 00:42:21,410
+It's plain as day to me.
+
+738
+00:42:22,870 --> 00:42:28,120
+These services are killing people...
+and causing people to kill themselves.
+
+739
+00:42:29,080 --> 00:42:33,300
+I don't know any parent who says, "Yeah,
+I really want my kids to be growing up
+
+740
+00:42:33,380 --> 00:42:36,880
+feeling manipulated by tech designers, uh,
+
+741
+00:42:36,970 --> 00:42:39,720
+manipulating their attention,
+making it impossible to do their homework,
+
+742
+00:42:39,800 --> 00:42:42,560
+making them compare themselves
+to unrealistic standards of beauty."
+
+743
+00:42:42,640 --> 00:42:44,680
+Like, no one wants that.
+
+744
+00:42:45,100 --> 00:42:46,350
+No one does.
+
+745
+00:42:46,430 --> 00:42:48,480
+We... We used to have these protections.
+
+746
+00:42:48,560 --> 00:42:50,940
+When children watched
+Saturday morning cartoons,
+
+747
+00:42:51,020 --> 00:42:52,770
+we cared about protecting children.
+
+748
+00:42:52,860 --> 00:42:56,570
+We would say, "You can't advertise
+to these age children in these ways."
+
+749
+00:42:57,360 --> 00:42:58,780
+But then you take YouTube for Kids,
+
+750
+00:42:58,860 --> 00:43:02,450
+and it gobbles up that entire portion
+of the attention economy,
+
+751
+00:43:02,530 --> 00:43:04,910
+and now all kids are exposed
+to YouTube for Kids.
+
+752
+00:43:04,990 --> 00:43:07,710
+And all those protections
+and all those regulations are gone.
+
+753
+00:43:18,300 --> 00:43:22,140
+We're training and conditioning
+a whole new generation of people...
+
+754
+00:43:23,430 --> 00:43:29,140
+that when we are uncomfortable or lonely
+or uncertain or afraid,
+
+755
+00:43:29,230 --> 00:43:31,770
+we have a digital pacifier for ourselves
+
+756
+00:43:32,230 --> 00:43:36,480
+that is kind of atrophying our own ability
+to deal with that.
+
+757
+00:43:53,880 --> 00:43:55,670
+Photoshop didn't have
+1,000 engineers
+
+758
+00:43:55,750 --> 00:43:58,960
+on the other side of the screen,
+using notifications, using your friends,
+
+759
+00:43:59,050 --> 00:44:02,430
+using AI to predict what's gonna
+perfectly addict you, or hook you,
+
+760
+00:44:02,510 --> 00:44:04,510
+or manipulate you, or allow advertisers
+
+761
+00:44:04,600 --> 00:44:08,430
+to test 60,000 variations
+of text or colors to figure out
+
+762
+00:44:08,520 --> 00:44:11,060
+what's the perfect manipulation
+of your mind.
+
+763
+00:44:11,140 --> 00:44:14,980
+This is a totally new species
+of power and influence.
+
+764
+00:44:16,070 --> 00:44:19,150
+I... I would say, again, the methods used
+
+765
+00:44:19,230 --> 00:44:22,780
+to play on people's ability
+to be addicted or to be influenced
+
+766
+00:44:22,860 --> 00:44:25,200
+may be different this time,
+and they probably are different.
+
+767
+00:44:25,280 --> 00:44:28,740
+They were different when newspapers
+came in and the printing press came in,
+
+768
+00:44:28,830 --> 00:44:31,830
+and they were different
+when television came in,
+
+769
+00:44:31,910 --> 00:44:34,000
+and you had three major networks and...
+
+770
+00:44:34,460 --> 00:44:36,420
+-At the time.
+-At the time. That's what I'm saying.
+
+771
+00:44:36,500 --> 00:44:38,380
+But I'm saying the idea
+that there's a new level
+
+772
+00:44:38,460 --> 00:44:42,050
+and that new level has happened
+so many times before.
+
+773
+00:44:42,130 --> 00:44:45,090
+I mean, this is just the latest new level
+that we've seen.
+
+774
+00:44:45,180 --> 00:44:48,720
+There's this narrative that, you know,
+"We'll just adapt to it.
+
+775
+00:44:48,810 --> 00:44:51,180
+We'll learn how to live
+with these devices,
+
+776
+00:44:51,270 --> 00:44:53,730
+just like we've learned how to live
+with everything else."
+
+777
+00:44:53,810 --> 00:44:56,690
+And what this misses
+is there's something distinctly new here.
+
+778
+00:44:57,480 --> 00:45:00,150
+Perhaps the most dangerous piece
+of all this is the fact
+
+779
+00:45:00,230 --> 00:45:04,410
+that it's driven by technology
+that's advancing exponentially.
+
+780
+00:45:05,860 --> 00:45:09,080
+Roughly, if you say from, like,
+the 1960s to today,
+
+781
+00:45:09,870 --> 00:45:12,960
+processing power has gone up
+about a trillion times.
+
+782
+00:45:13,790 --> 00:45:18,340
+Nothing else that we have has improved
+at anything near that rate.
+
+783
+00:45:18,420 --> 00:45:22,170
+Like, cars are, you know,
+roughly twice as fast.
+
+784
+00:45:22,260 --> 00:45:25,010
+And almost everything else is negligible.
+
+785
+00:45:25,340 --> 00:45:27,180
+And perhaps most importantly,
+
+786
+00:45:27,260 --> 00:45:31,350
+our human-- our physiology,
+our brains have evolved not at all.
+
+787
+00:45:37,400 --> 00:45:41,480
+Human beings, at a mind and body
+and sort of physical level,
+
+788
+00:45:41,940 --> 00:45:43,860
+are not gonna fundamentally change.
+
+789
+00:45:47,030 --> 00:45:48,950
+I know, but they...
+
+790
+00:45:56,830 --> 00:46:00,920
+We can do genetic engineering
+and develop new kinds of human beings,
+
+791
+00:46:01,000 --> 00:46:05,220
+but realistically speaking,
+you're living inside of hardware, a brain,
+
+792
+00:46:05,300 --> 00:46:07,220
+that was, like, millions of years old,
+
+793
+00:46:07,300 --> 00:46:10,550
+and then there's this screen, and then
+on the opposite side of the screen,
+
+794
+00:46:10,640 --> 00:46:13,560
+there's these thousands of engineers
+and supercomputers
+
+795
+00:46:13,640 --> 00:46:16,100
+that have goals that are different
+than your goals,
+
+796
+00:46:16,190 --> 00:46:19,690
+and so, who's gonna win in that game?
+Who's gonna win?
+
+797
+00:46:25,690 --> 00:46:26,610
+How are we losing?
+
+798
+00:46:27,150 --> 00:46:29,820
+-I don't know.
+-Where is he? This is not normal.
+
+799
+00:46:29,910 --> 00:46:32,080
+Did I overwhelm him
+with friends and family content?
+
+800
+00:46:32,160 --> 00:46:34,080
+-Probably.
+-Well, maybe it was all the ads.
+
+801
+00:46:34,160 --> 00:46:37,790
+No. Something's very wrong.
+Let's switch to resurrection mode.
+
+802
+00:46:39,710 --> 00:46:44,050
+When you think of AI,
+you know, an AI's gonna ruin the world,
+
+803
+00:46:44,130 --> 00:46:47,220
+and you see, like, a Terminator,
+and you see Arnold Schwarzenegger.
+
+804
+00:46:47,630 --> 00:46:48,680
+I'll be back.
+
+805
+00:46:48,760 --> 00:46:50,930
+You see drones,
+and you think, like,
+
+806
+00:46:51,010 --> 00:46:52,680
+"Oh, we're gonna kill people with AI."
+
+807
+00:46:53,640 --> 00:46:59,810
+And what people miss is that AI
+already runs today's world right now.
+
+808
+00:46:59,900 --> 00:47:03,230
+Even talking about "an AI"
+is just a metaphor.
+
+809
+00:47:03,320 --> 00:47:09,450
+At these companies like... like Google,
+there's just massive, massive rooms,
+
+810
+00:47:10,320 --> 00:47:13,120
+some of them underground,
+some of them underwater,
+
+811
+00:47:13,200 --> 00:47:14,490
+of just computers.
+
+812
+00:47:14,580 --> 00:47:17,830
+Tons and tons of computers,
+as far as the eye can see.
+
+813
+00:47:18,460 --> 00:47:20,500
+They're deeply interconnected
+with each other
+
+814
+00:47:20,580 --> 00:47:22,920
+and running
+extremely complicated programs,
+
+815
+00:47:23,000 --> 00:47:26,000
+sending information back and forth
+between each other all the time.
+
+816
+00:47:26,800 --> 00:47:28,590
+And they'll be running
+many different programs,
+
+817
+00:47:28,670 --> 00:47:31,010
+many different products
+on those same machines.
+
+818
+00:47:31,340 --> 00:47:33,680
+Some of those things could be described
+as simple algorithms,
+
+819
+00:47:33,760 --> 00:47:35,220
+some could be described as algorithms
+
+820
+00:47:35,310 --> 00:47:37,520
+that are so complicated,
+you would call them intelligence.
+
+821
+00:47:40,060 --> 00:47:42,560
+I like to say that algorithms are opinions
+
+822
+00:47:42,650 --> 00:47:43,770
+embedded in code...
+
+823
+00:47:45,070 --> 00:47:47,650
+and that algorithms are not objective.
+
+824
+00:47:48,360 --> 00:47:51,570
+Algorithms are optimized
+to some definition of success.
+
+825
+00:47:52,240 --> 00:47:53,370
+So, if you can imagine,
+
+826
+00:47:53,450 --> 00:47:57,120
+if a... if a commercial enterprise builds
+an algorithm
+
+827
+00:47:57,200 --> 00:47:59,290
+to their definition of success,
+
+828
+00:47:59,830 --> 00:48:01,210
+it's a commercial interest.
+
+829
+00:48:01,580 --> 00:48:02,670
+It's usually profit.
+
+830
+00:48:03,130 --> 00:48:07,380
+You are giving the computer
+the goal state, "I want this outcome,"
+
+831
+00:48:07,460 --> 00:48:10,260
+and then the computer itself is learning
+how to do it.
+
+832
+00:48:10,340 --> 00:48:12,590
+That's where the term "machine learning"
+comes from.
+
+833
+00:48:12,680 --> 00:48:14,850
+And so, every day, it gets slightly better
+
+834
+00:48:14,930 --> 00:48:16,970
+at picking the right posts
+in the right order
+
+835
+00:48:17,060 --> 00:48:19,430
+so that you spend longer and longer
+in that product.
+
+836
+00:48:19,520 --> 00:48:22,230
+And no one really understands
+what they're doing
+
+837
+00:48:22,310 --> 00:48:23,900
+in order to achieve that goal.
+
+838
+00:48:23,980 --> 00:48:28,230
+The algorithm has a mind of its own,
+so even though a person writes it,
+
+839
+00:48:28,900 --> 00:48:30,650
+it's written in a way
+
+840
+00:48:30,740 --> 00:48:35,030
+that you kind of build the machine,
+and then the machine changes itself.
+
+841
+00:48:35,120 --> 00:48:37,870
+There's only a handful of people
+at these companies,
+
+842
+00:48:37,950 --> 00:48:40,000
+at Facebook and Twitter
+and other companies...
+
+843
+00:48:40,080 --> 00:48:43,790
+There's only a few people who understand
+how those systems work,
+
+844
+00:48:43,870 --> 00:48:46,710
+and even they don't necessarily
+fully understand
+
+845
+00:48:46,790 --> 00:48:49,550
+what's gonna happen
+with a particular piece of content.
+
+846
+00:48:49,960 --> 00:48:55,470
+So, as humans, we've almost lost control
+over these systems.
+
+847
+00:48:55,890 --> 00:48:59,600
+Because they're controlling, you know,
+the information that we see,
+
+848
+00:48:59,680 --> 00:49:02,180
+they're controlling us more
+than we're controlling them.
+
+849
+00:49:02,520 --> 00:49:04,730
+- Cross-referencing him
+
+850
+00:49:04,810 --> 00:49:07,310
+against comparables
+in his geographic zone.
+
+851
+00:49:07,400 --> 00:49:09,570
+His psychometric doppelgangers.
+
+852
+00:49:09,650 --> 00:49:13,700
+There are 13,694 people
+behaving just like him in his region.
+
+853
+00:49:13,780 --> 00:49:16,370
+-What's trending with them?
+-We need something actually good
+
+854
+00:49:16,450 --> 00:49:17,700
+for a proper resurrection,
+
+855
+00:49:17,780 --> 00:49:19,950
+given that the typical stuff
+isn't working.
+
+856
+00:49:20,040 --> 00:49:21,870
+Not even that cute girl from school.
+
+857
+00:49:22,330 --> 00:49:25,250
+My analysis shows that going political
+with Extreme Center content
+
+858
+00:49:25,330 --> 00:49:28,250
+has a 62.3 percent chance
+of long-term engagement.
+
+859
+00:49:28,340 --> 00:49:29,290
+That's not bad.
+
+860
+00:49:29,380 --> 00:49:32,010
+It's not good enough to lead with.
+
+861
+00:49:32,300 --> 00:49:35,300
+Okay, okay, so we've tried notifying him
+about tagged photos,
+
+862
+00:49:35,380 --> 00:49:39,010
+invitations, current events,
+even a direct message from Rebecca.
+
+863
+00:49:39,100 --> 00:49:42,810
+But what about User 01265923010?
+
+864
+00:49:42,890 --> 00:49:44,640
+Yeah, Ben loved all of her posts.
+
+865
+00:49:44,730 --> 00:49:47,770
+For months and, like,
+literally all of them, and then nothing.
+
+866
+00:49:47,850 --> 00:49:50,440
+I calculate a 92.3 percent chance
+of resurrection
+
+867
+00:49:50,520 --> 00:49:52,030
+with a notification about Ana.
+
+868
+00:49:56,530 --> 00:49:57,490
+And her new friend.
+
+869
+00:50:25,680 --> 00:50:27,440
+Oh, you gotta be kiddin' me.
+
+870
+00:50:32,400 --> 00:50:33,610
+Uh...
+
+871
+00:50:35,650 --> 00:50:36,610
+Okay.
+
+872
+00:50:38,860 --> 00:50:40,990
+-What?
+
+873
+00:50:41,410 --> 00:50:42,780
+Bam! We're back!
+
+874
+00:50:42,870 --> 00:50:44,370
+Let's get back to making money, boys.
+
+875
+00:50:44,450 --> 00:50:46,330
+Yes, and connecting Ben
+with the entire world.
+
+876
+00:50:46,410 --> 00:50:49,080
+I'm giving him access
+to all the information he might like.
+
+877
+00:50:49,750 --> 00:50:53,710
+Hey, do you guys ever wonder if, you know,
+like, the feed is good for Ben?
+
+878
+00:50:57,090 --> 00:50:58,430
+-No.
+-No.
+
+879
+00:52:20,920 --> 00:52:24,340
+So, imagine you're on Facebook...
+
+880
+00:52:24,760 --> 00:52:29,310
+and you're effectively playing
+against this artificial intelligence
+
+881
+00:52:29,390 --> 00:52:31,310
+that knows everything about you,
+
+882
+00:52:31,390 --> 00:52:34,560
+can anticipate your next move,
+and you know literally nothing about it,
+
+883
+00:52:34,650 --> 00:52:37,400
+except that there are cat videos
+and birthdays on it.
+
+884
+00:52:37,820 --> 00:52:39,650
+That's not a fair fight.
+
+885
+00:52:41,570 --> 00:52:43,860
+Ben and Jerry, it's time to go, bud!
+
+886
+00:52:51,120 --> 00:52:51,960
+Ben?
+
+887
+00:53:02,670 --> 00:53:04,720
+- Ben.
+- Mm.
+
+888
+00:53:05,180 --> 00:53:06,050
+Come on.
+
+889
+00:53:07,220 --> 00:53:08,350
+School time.
+
+890
+00:53:08,430 --> 00:53:09,260
+Let's go.
+
+891
+00:53:31,370 --> 00:53:33,620
+- How you doing today?
+-Oh, I'm... I'm nervous.
+
+892
+00:53:33,710 --> 00:53:35,000
+-Are ya?
+-Yeah.
+
+893
+00:53:37,380 --> 00:53:39,130
+We were all looking for the moment
+
+894
+00:53:39,210 --> 00:53:42,960
+when technology would overwhelm
+human strengths and intelligence.
+
+895
+00:53:43,050 --> 00:53:47,010
+When is it gonna cross the singularity,
+replace our jobs, be smarter than humans?
+
+896
+00:53:48,140 --> 00:53:50,100
+But there's this much earlier moment...
+
+897
+00:53:50,970 --> 00:53:55,310
+when technology exceeds
+and overwhelms human weaknesses.
+
+898
+00:53:57,480 --> 00:54:01,780
+This point being crossed
+is at the root of addiction,
+
+899
+00:54:02,110 --> 00:54:04,740
+polarization, radicalization,
+outrage-ification,
+
+900
+00:54:04,820 --> 00:54:06,360
+vanity-ification, the entire thing.
+
+901
+00:54:07,700 --> 00:54:09,910
+This is overpowering human nature,
+
+902
+00:54:10,530 --> 00:54:13,500
+and this is checkmate on humanity.
+
+903
+00:54:30,550 --> 00:54:31,850
+I'm sorry.
+
+904
+00:54:41,730 --> 00:54:44,650
+One of the ways
+I try to get people to understand
+
+905
+00:54:45,190 --> 00:54:49,820
+just how wrong feeds from places
+like Facebook are
+
+906
+00:54:49,910 --> 00:54:51,450
+is to think about the Wikipedia.
+
+907
+00:54:52,950 --> 00:54:56,200
+When you go to a page, you're seeing
+the same thing as other people.
+
+908
+00:54:56,580 --> 00:55:00,290
+So, it's one of the few things online
+that we at least hold in common.
+
+909
+00:55:00,380 --> 00:55:03,420
+Now, just imagine for a second
+that Wikipedia said,
+
+910
+00:55:03,500 --> 00:55:07,170
+"We're gonna give each person
+a different customized definition,
+
+911
+00:55:07,260 --> 00:55:09,470
+and we're gonna be paid by people
+for that."
+
+912
+00:55:09,550 --> 00:55:13,430
+So, Wikipedia would be spying on you.
+Wikipedia would calculate,
+
+913
+00:55:13,510 --> 00:55:17,180
+"What's the thing I can do
+to get this person to change a little bit
+
+914
+00:55:17,270 --> 00:55:19,890
+on behalf of some commercial interest?"
+Right?
+
+915
+00:55:19,980 --> 00:55:21,810
+And then it would change the entry.
+
+916
+00:55:22,440 --> 00:55:24,730
+Can you imagine that?
+Well, you should be able to,
+
+917
+00:55:24,820 --> 00:55:26,820
+'cause that's exactly what's happening
+on Facebook.
+
+918
+00:55:26,900 --> 00:55:28,990
+It's exactly what's happening
+in your YouTube feed.
+
+919
+00:55:29,070 --> 00:55:31,780
+When you go to Google and type in
+"Climate change is,"
+
+920
+00:55:31,870 --> 00:55:34,990
+you're going to see different results
+depending on where you live.
+
+921
+00:55:36,160 --> 00:55:38,460
+In certain cities,
+you're gonna see it autocomplete
+
+922
+00:55:38,540 --> 00:55:40,460
+with "climate change is a hoax."
+
+923
+00:55:40,540 --> 00:55:42,080
+In other cases, you're gonna see
+
+924
+00:55:42,170 --> 00:55:44,840
+"climate change is causing the destruction
+of nature."
+
+925
+00:55:44,920 --> 00:55:48,420
+And that's a function not
+of what the truth is about climate change,
+
+926
+00:55:48,510 --> 00:55:51,090
+but about
+where you happen to be Googling from
+
+927
+00:55:51,180 --> 00:55:54,100
+and the particular things
+Google knows about your interests.
+
+928
+00:55:54,850 --> 00:55:58,020
+Even two friends
+who are so close to each other,
+
+929
+00:55:58,100 --> 00:56:00,190
+who have almost the exact same set
+of friends,
+
+930
+00:56:00,270 --> 00:56:02,810
+they think, you know,
+"I'm going to news feeds on Facebook.
+
+931
+00:56:02,900 --> 00:56:05,400
+I'll see the exact same set of updates."
+
+932
+00:56:05,480 --> 00:56:06,730
+But it's not like that at all.
+
+933
+00:56:06,820 --> 00:56:08,440
+They see completely different worlds
+
+934
+00:56:08,530 --> 00:56:10,570
+because they're based
+on these computers calculating
+
+935
+00:56:10,650 --> 00:56:12,030
+what's perfect for each of them.
+
+936
+00:56:14,320 --> 00:56:18,410
+The way to think about it
+is it's 2.7 billion Truman Shows.
+
+937
+00:56:18,500 --> 00:56:21,290
+Each person has their own reality,
+with their own...
+
+938
+00:56:22,670 --> 00:56:23,670
+facts.
+
+939
+00:56:23,750 --> 00:56:27,000
+Why do you think
+that, uh, Truman has never come close
+
+940
+00:56:27,090 --> 00:56:30,090
+to discovering the true nature
+of his world until now?
+
+941
+00:56:31,050 --> 00:56:34,140
+We accept the reality of the world
+with which we're presented.
+
+942
+00:56:34,220 --> 00:56:35,140
+It's as simple as that.
+
+943
+00:56:36,470 --> 00:56:41,060
+Over time, you have the false sense
+that everyone agrees with you,
+
+944
+00:56:41,140 --> 00:56:44,060
+because everyone in your news feed
+sounds just like you.
+
+945
+00:56:44,560 --> 00:56:49,070
+And that once you're in that state,
+it turns out you're easily manipulated,
+
+946
+00:56:49,150 --> 00:56:51,740
+the same way you would be manipulated
+by a magician.
+
+947
+00:56:51,820 --> 00:56:55,370
+A magician shows you a card trick
+and says, "Pick a card, any card."
+
+948
+00:56:55,450 --> 00:56:58,160
+What you don't realize
+was that they've done a set-up,
+
+949
+00:56:58,450 --> 00:57:00,580
+so you pick the card
+they want you to pick.
+
+950
+00:57:00,660 --> 00:57:03,160
+And that's how Facebook works.
+Facebook sits there and says,
+
+951
+00:57:03,250 --> 00:57:06,170
+"Hey, you pick your friends.
+You pick the links that you follow."
+
+952
+00:57:06,250 --> 00:57:08,710
+But that's all nonsense.
+It's just like the magician.
+
+953
+00:57:08,800 --> 00:57:11,300
+Facebook is in charge of your news feed.
+
+954
+00:57:11,380 --> 00:57:14,510
+We all simply are operating
+on a different set of facts.
+
+955
+00:57:14,590 --> 00:57:16,470
+When that happens at scale,
+
+956
+00:57:16,550 --> 00:57:20,640
+you're no longer able to reckon with
+or even consume information
+
+957
+00:57:20,720 --> 00:57:23,690
+that contradicts with that world view
+that you've created.
+
+958
+00:57:23,770 --> 00:57:26,440
+That means we aren't actually being
+objective,
+
+959
+00:57:26,520 --> 00:57:28,310
+constructive individuals.
+
+960
+00:57:28,400 --> 00:57:32,440
+Open up your eyes,
+don't believe the lies! Open up...
+
+961
+00:57:32,530 --> 00:57:34,700
+And then you look
+over at the other side,
+
+962
+00:57:35,240 --> 00:57:38,740
+and you start to think,
+"How can those people be so stupid?
+
+963
+00:57:38,830 --> 00:57:42,120
+Look at all of this information
+that I'm constantly seeing.
+
+964
+00:57:42,200 --> 00:57:44,620
+How are they not seeing
+that same information?"
+
+965
+00:57:44,710 --> 00:57:47,290
+And the answer is, "They're not seeing
+that same information."
+
+966
+00:57:47,380 --> 00:57:50,800
+Open up your eyes, don't believe the lies!
+
+967
+00:57:52,090 --> 00:57:55,470
+- What are Republicans like?
+-People that don't have a clue.
+
+968
+00:57:55,550 --> 00:57:58,930
+The Democrat Party is a crime syndicate,
+not a real political party.
+
+969
+00:57:59,010 --> 00:58:03,180
+A huge new Pew Research Center study
+of 10,000 American adults
+
+970
+00:58:03,270 --> 00:58:05,310
+finds us more divided than ever,
+
+971
+00:58:05,390 --> 00:58:09,150
+with personal and political polarization
+at a 20-year high.
+
+972
+00:58:11,730 --> 00:58:14,190
+You have
+more than a third of Republicans saying
+
+973
+00:58:14,280 --> 00:58:16,820
+the Democratic Party is a threat
+to the nation,
+
+974
+00:58:16,910 --> 00:58:20,580
+more than a quarter of Democrats saying
+the same thing about the Republicans.
+
+975
+00:58:20,660 --> 00:58:22,490
+So many of the problems
+that we're discussing,
+
+976
+00:58:22,580 --> 00:58:24,410
+like, around political polarization
+
+977
+00:58:24,500 --> 00:58:28,040
+exist in spades on cable television.
+
+978
+00:58:28,120 --> 00:58:31,000
+The media has this exact same problem,
+
+979
+00:58:31,090 --> 00:58:33,340
+where their business model, by and large,
+
+980
+00:58:33,420 --> 00:58:35,760
+is that they're selling our attention
+to advertisers.
+
+981
+00:58:35,840 --> 00:58:38,890
+And the Internet is just a new,
+even more efficient way to do that.
+
+982
+00:58:40,140 --> 00:58:44,140
+At YouTube, I was working
+on YouTube recommendations.
+
+983
+00:58:44,220 --> 00:58:47,140
+It worries me that an algorithm
+that I worked on
+
+984
+00:58:47,230 --> 00:58:50,400
+is actually increasing polarization
+in society.
+
+985
+00:58:50,480 --> 00:58:53,110
+But from the point of view of watch time,
+
+986
+00:58:53,190 --> 00:58:57,610
+this polarization is extremely efficient
+at keeping people online.
+
+987
+00:58:58,780 --> 00:59:00,870
+The only reason
+these teachers are teaching this stuff
+
+988
+00:59:00,950 --> 00:59:02,280
+is 'cause they're getting paid to.
+
+989
+00:59:02,370 --> 00:59:04,370
+-It's absolutely absurd.
+- Hey, Benji.
+
+990
+00:59:04,910 --> 00:59:06,290
+No soccer practice today?
+
+991
+00:59:06,370 --> 00:59:08,790
+Oh, there is. I'm just catching up
+on some news stuff.
+
+992
+00:59:08,870 --> 00:59:11,500
+Do research. Anything
+that sways from the Extreme Center--
+
+993
+00:59:11,580 --> 00:59:14,000
+Wouldn't exactly call the stuff
+that you're watching news.
+
+994
+00:59:15,550 --> 00:59:18,840
+You're always talking about how messed up
+everything is. So are they.
+
+995
+00:59:19,300 --> 00:59:21,140
+But that stuff is just propaganda.
+
+996
+00:59:21,220 --> 00:59:24,060
+Neither is true.
+It's all about what makes sense.
+
+997
+00:59:24,760 --> 00:59:26,930
+Ben, I'm serious.
+That stuff is bad for you.
+
+998
+00:59:27,020 --> 00:59:29,230
+-You should go to soccer practice.
+- Mm.
+
+999
+00:59:35,150 --> 00:59:37,490
+I share this stuff because I care.
+
+1000
+00:59:37,570 --> 00:59:41,070
+I care that you are being misled,
+and it's not okay. All right?
+
+1001
+00:59:41,160 --> 00:59:43,120
+People think
+the algorithm is designed
+
+1002
+00:59:43,200 --> 00:59:46,830
+to give them what they really want,
+only it's not.
+
+1003
+00:59:46,910 --> 00:59:52,580
+The algorithm is actually trying to find
+a few rabbit holes that are very powerful,
+
+1004
+00:59:52,670 --> 00:59:56,210
+trying to find which rabbit hole
+is the closest to your interest.
+
+1005
+00:59:56,300 --> 00:59:59,260
+And then if you start watching
+one of those videos,
+
+1006
+00:59:59,840 --> 01:00:02,220
+then it will recommend it
+over and over again.
+
+1007
+01:00:02,680 --> 01:00:04,930
+It's not like anybody wants this
+to happen.
+
+1008
+01:00:05,010 --> 01:00:07,810
+It's just that this is
+what the recommendation system is doing.
+
+1009
+01:00:07,890 --> 01:00:10,810
+So much so that Kyrie Irving,
+the famous basketball player,
+
+1010
+01:00:11,060 --> 01:00:14,230
+uh, said he believed the Earth was flat,
+and he apologized later
+
+1011
+01:00:14,310 --> 01:00:16,150
+because he blamed it
+on a YouTube rabbit hole.
+
+1012
+01:00:16,480 --> 01:00:18,650
+You know, like,
+you click the YouTube click
+
+1013
+01:00:18,740 --> 01:00:21,530
+and it goes, like,
+how deep the rabbit hole goes.
+
+1014
+01:00:21,610 --> 01:00:23,360
+When he later came on to NPR to say,
+
+1015
+01:00:23,450 --> 01:00:25,950
+"I'm sorry for believing this.
+I didn't want to mislead people,"
+
+1016
+01:00:26,030 --> 01:00:28,290
+a bunch of students in a classroom
+were interviewed saying,
+
+1017
+01:00:28,370 --> 01:00:29,660
+"The round-Earthers got to him."
+
+1018
+01:00:31,040 --> 01:00:33,960
+The flat-Earth conspiracy theory
+was recommended
+
+1019
+01:00:34,040 --> 01:00:37,630
+hundreds of millions of times
+by the algorithm.
+
+1020
+01:00:37,710 --> 01:00:43,890
+It's easy to think that it's just
+a few stupid people who get convinced,
+
+1021
+01:00:43,970 --> 01:00:46,890
+but the algorithm is getting smarter
+and smarter every day.
+
+1022
+01:00:46,970 --> 01:00:50,180
+So, today, they are convincing the people
+that the Earth is flat,
+
+1023
+01:00:50,270 --> 01:00:53,980
+but tomorrow, they will be convincing you
+of something that's false.
+
+1024
+01:00:54,310 --> 01:00:57,820
+On November 7th,
+the hashtag "Pizzagate" was born.
+
+1025
+01:00:57,900 --> 01:00:59,190
+Pizzagate...
+
+1026
+01:01:00,110 --> 01:01:01,440
+Oh, boy.
+
+1027
+01:01:01,530 --> 01:01:02,530
+Uh...
+
+1028
+01:01:03,150 --> 01:01:06,910
+I still am not 100 percent sure
+how this originally came about,
+
+1029
+01:01:06,990 --> 01:01:12,370
+but the idea that ordering a pizza
+meant ordering a trafficked person.
+
+1030
+01:01:12,460 --> 01:01:15,040
+As the groups got bigger on Facebook,
+
+1031
+01:01:15,120 --> 01:01:19,960
+Facebook's recommendation engine
+started suggesting to regular users
+
+1032
+01:01:20,050 --> 01:01:21,760
+that they join Pizzagate groups.
+
+1033
+01:01:21,840 --> 01:01:27,390
+So, if a user was, for example,
+anti-vaccine or believed in chemtrails
+
+1034
+01:01:27,470 --> 01:01:30,640
+or had indicated to Facebook's algorithms
+in some way
+
+1035
+01:01:30,720 --> 01:01:33,390
+that they were prone to belief
+in conspiracy theories,
+
+1036
+01:01:33,480 --> 01:01:36,850
+Facebook's recommendation engine
+would serve them Pizzagate groups.
+
+1037
+01:01:36,940 --> 01:01:41,070
+Eventually, this culminated in
+a man showing up with a gun,
+
+1038
+01:01:41,150 --> 01:01:44,610
+deciding that he was gonna go liberate
+the children from the basement
+
+1039
+01:01:44,700 --> 01:01:46,910
+of the pizza place
+that did not have a basement.
+
+1040
+01:01:46,990 --> 01:01:48,530
+What were you doing?
+
+1041
+01:01:48,870 --> 01:01:50,490
+Making sure
+there was nothing there.
+
+1042
+01:01:50,580 --> 01:01:52,450
+- Regarding?
+- Pedophile ring.
+
+1043
+01:01:52,540 --> 01:01:54,290
+- What?
+- Pedophile ring.
+
+1044
+01:01:54,370 --> 01:01:55,960
+He's talking about Pizzagate.
+
+1045
+01:01:56,040 --> 01:02:00,210
+This is an example of a conspiracy theory
+
+1046
+01:02:00,290 --> 01:02:03,670
+that was propagated
+across all social networks.
+
+1047
+01:02:03,760 --> 01:02:06,090
+The social network's
+own recommendation engine
+
+1048
+01:02:06,180 --> 01:02:07,970
+is voluntarily serving this up to people
+
+1049
+01:02:08,050 --> 01:02:10,640
+who had never searched
+for the term "Pizzagate" in their life.
+
+1050
+01:02:12,430 --> 01:02:14,430
+There's a study, an MIT study,
+
+1051
+01:02:14,520 --> 01:02:19,810
+that fake news on Twitter spreads
+six times faster than true news.
+
+1052
+01:02:19,900 --> 01:02:21,860
+What is that world gonna look like
+
+1053
+01:02:21,940 --> 01:02:24,740
+when one has a six-times advantage
+to the other one?
+
+1054
+01:02:25,280 --> 01:02:27,660
+You can imagine
+these things are sort of like...
+
+1055
+01:02:27,740 --> 01:02:31,700
+they... they tilt the floor
+of... of human behavior.
+
+1056
+01:02:31,780 --> 01:02:34,700
+They make some behavior harder
+and some easier.
+
+1057
+01:02:34,790 --> 01:02:37,420
+And you're always free
+to walk up the hill,
+
+1058
+01:02:37,500 --> 01:02:38,790
+but fewer people do,
+
+1059
+01:02:38,880 --> 01:02:43,090
+and so, at scale, at society's scale,
+you really are just tilting the floor
+
+1060
+01:02:43,170 --> 01:02:45,970
+and changing what billions of people think
+and do.
+
+1061
+01:02:46,050 --> 01:02:52,010
+We've created a system
+that biases towards false information.
+
+1062
+01:02:52,640 --> 01:02:54,430
+Not because we want to,
+
+1063
+01:02:54,520 --> 01:02:58,810
+but because false information makes
+the companies more money
+
+1064
+01:02:59,400 --> 01:03:01,310
+than the truth. The truth is boring.
+
+1065
+01:03:01,980 --> 01:03:04,480
+It's a disinformation-for-profit
+business model.
+
+1066
+01:03:04,900 --> 01:03:08,150
+You make money the more you allow
+unregulated messages
+
+1067
+01:03:08,700 --> 01:03:11,280
+to reach anyone for the best price.
+
+1068
+01:03:11,660 --> 01:03:13,950
+Because climate change? Yeah.
+
+1069
+01:03:14,040 --> 01:03:16,750
+It's a hoax. Yeah, it's real.
+That's the point.
+
+1070
+01:03:16,830 --> 01:03:20,040
+The more they talk about it
+and the more they divide us,
+
+1071
+01:03:20,120 --> 01:03:22,420
+the more they have the power,
+the more...
+
+1072
+01:03:22,500 --> 01:03:25,460
+Facebook has trillions
+of these news feed posts.
+
+1073
+01:03:26,550 --> 01:03:29,180
+They can't know what's real
+or what's true...
+
+1074
+01:03:29,970 --> 01:03:33,720
+which is why this conversation
+is so critical right now.
+
+1075
+01:03:33,810 --> 01:03:37,020
+It's not just COVID-19
+that's spreading fast.
+
+1076
+01:03:37,100 --> 01:03:40,190
+There's a flow of misinformation online
+about the virus.
+
+1077
+01:03:40,270 --> 01:03:41,810
+The notion
+drinking water
+
+1078
+01:03:41,900 --> 01:03:43,690
+will flush coronavirus from your system
+
+1079
+01:03:43,770 --> 01:03:47,490
+is one of several myths about the virus
+circulating on social media.
+
+1080
+01:03:47,570 --> 01:03:50,450
+The government planned
+this event, created the virus,
+
+1081
+01:03:50,530 --> 01:03:53,620
+and had a simulation
+of how the countries would react.
+
+1082
+01:03:53,950 --> 01:03:55,580
+Coronavirus is a... a hoax.
+
+1083
+01:03:56,160 --> 01:03:57,950
+SARS, coronavirus.
+
+1084
+01:03:58,370 --> 01:04:01,040
+And look at when it was made. 2018.
+
+1085
+01:04:01,120 --> 01:04:03,790
+I think the US government started
+this shit.
+
+1086
+01:04:04,210 --> 01:04:09,090
+Nobody is sick. Nobody is sick.
+Nobody knows anybody who's sick.
+
+1087
+01:04:09,510 --> 01:04:13,010
+Maybe the government is using
+the coronavirus as an excuse
+
+1088
+01:04:13,090 --> 01:04:15,640
+to get everyone to stay inside
+because something else is happening.
+
+1089
+01:04:15,720 --> 01:04:18,020
+Coronavirus is not killing people,
+
+1090
+01:04:18,100 --> 01:04:20,940
+it's the 5G radiation
+that they're pumping out.
+
+1091
+01:04:22,600 --> 01:04:24,940
+We're being bombarded with rumors.
+
+1092
+01:04:25,400 --> 01:04:28,820
+People are blowing up
+actual physical cell phone towers.
+
+1093
+01:04:28,900 --> 01:04:32,200
+We see Russia and China spreading rumors
+and conspiracy theories.
+
+1094
+01:04:32,280 --> 01:04:35,240
+This morning,
+panic and protest in Ukraine as...
+
+1095
+01:04:35,320 --> 01:04:38,910
+People have no idea what's true,
+and now it's a matter of life and death.
+
+1096
+01:04:39,870 --> 01:04:42,620
+Those sources that are spreading
+coronavirus misinformation
+
+1097
+01:04:42,710 --> 01:04:45,790
+have amassed
+something like 52 million engagements.
+
+1098
+01:04:45,880 --> 01:04:50,090
+You're saying that silver solution
+would be effective.
+
+1099
+01:04:50,170 --> 01:04:54,140
+Well, let's say it hasn't been tested
+on this strain of the coronavirus, but...
+
+1100
+01:04:54,220 --> 01:04:57,220
+What we're seeing with COVID
+is just an extreme version
+
+1101
+01:04:57,310 --> 01:05:00,520
+of what's happening
+across our information ecosystem.
+
+1102
+01:05:00,930 --> 01:05:05,020
+Social media amplifies exponential gossip
+and exponential hearsay
+
+1103
+01:05:05,100 --> 01:05:07,110
+to the point
+that we don't know what's true,
+
+1104
+01:05:07,190 --> 01:05:08,940
+no matter what issue we care about.
+
+1105
+01:05:15,160 --> 01:05:16,570
+He discovers this.
+
+1106
+01:05:19,870 --> 01:05:21,290
+Ben.
+
+1107
+01:05:26,130 --> 01:05:28,250
+-Are you still on the team?
+- Mm-hmm.
+
+1108
+01:05:30,380 --> 01:05:32,670
+Okay, well,
+I'm gonna get a snack before practice
+
+1109
+01:05:32,760 --> 01:05:34,430
+if you... wanna come.
+
+1110
+01:05:35,640 --> 01:05:36,510
+Hm?
+
+1111
+01:05:36,970 --> 01:05:38,600
+You know, never mind.
+
+1112
+01:05:45,060 --> 01:05:47,520
+Nine out of ten people
+are dissatisfied right now.
+
+1113
+01:05:47,610 --> 01:05:50,610
+The EC is like any political movement
+in history, when you think about it.
+
+1114
+01:05:50,690 --> 01:05:54,490
+We are standing up, and we are...
+we are standing up to this noise.
+
+1115
+01:05:54,570 --> 01:05:57,030
+You are my people. I trust you guys.
+
+1116
+01:05:59,240 --> 01:06:02,580
+-The Extreme Center content is brilliant.
+-He absolutely loves it.
+
+1117
+01:06:02,660 --> 01:06:03,620
+Running an auction.
+
+1118
+01:06:04,620 --> 01:06:08,540
+840 bidders. He sold for 4.35 cents
+to a weapons manufacturer.
+
+1119
+01:06:08,630 --> 01:06:10,800
+Let's promote some of these events.
+
+1120
+01:06:10,880 --> 01:06:13,510
+Upcoming rallies in his geographic zone
+later this week.
+
+1121
+01:06:13,590 --> 01:06:15,170
+I've got a new vlogger lined up, too.
+
+1122
+01:06:17,760 --> 01:06:22,970
+And... and, honestly, I'm telling you,
+I'm willing to do whatever it takes.
+
+1123
+01:06:23,060 --> 01:06:24,930
+And I mean whatever.
+
+1124
+01:06:32,150 --> 01:06:33,190
+-Subscribe...
+- Ben?
+
+1125
+01:06:33,280 --> 01:06:35,900
+...and also come back
+because I'm telling you, yo...
+
+1126
+01:06:35,990 --> 01:06:38,860
+-...I got some real big things comin'.
+
+1127
+01:06:38,950 --> 01:06:40,160
+Some real big things.
+
+1128
+01:06:40,780 --> 01:06:45,290
+One of the problems with Facebook
+is that, as a tool of persuasion,
+
+1129
+01:06:45,790 --> 01:06:47,920
+it may be the greatest thing ever created.
+
+1130
+01:06:48,000 --> 01:06:52,500
+Now, imagine what that means in the hands
+of a dictator or an authoritarian.
+
+1131
+01:06:53,710 --> 01:06:57,630
+If you want to control the population
+of your country,
+
+1132
+01:06:57,720 --> 01:07:01,300
+there has never been a tool
+as effective as Facebook.
+
+1133
+01:07:04,930 --> 01:07:07,390
+Some of the most troubling implications
+
+1134
+01:07:07,480 --> 01:07:10,980
+of governments and other bad actors
+weaponizing social media,
+
+1135
+01:07:11,230 --> 01:07:13,610
+um, is that it has led
+to real, offline harm.
+
+1136
+01:07:13,690 --> 01:07:15,070
+I think the most prominent example
+
+1137
+01:07:15,150 --> 01:07:17,650
+that's gotten a lot of press
+is what's happened in Myanmar.
+
+1138
+01:07:19,240 --> 01:07:21,200
+In Myanmar,
+when people think of the Internet,
+
+1139
+01:07:21,280 --> 01:07:22,910
+what they are thinking about is Facebook.
+
+1140
+01:07:22,990 --> 01:07:25,910
+And what often happens is
+when people buy their cell phone,
+
+1141
+01:07:26,000 --> 01:07:29,920
+the cell phone shop owner will actually
+preload Facebook on there for them
+
+1142
+01:07:30,000 --> 01:07:31,500
+and open an account for them.
+
+1143
+01:07:31,580 --> 01:07:34,880
+And so when people get their phone,
+the first thing they open
+
+1144
+01:07:34,960 --> 01:07:37,590
+and the only thing they know how to open
+is Facebook.
+
+1145
+01:07:38,170 --> 01:07:41,890
+Well, a new bombshell investigation
+exposes Facebook's growing struggle
+
+1146
+01:07:41,970 --> 01:07:43,800
+to tackle hate speech in Myanmar.
+
+1147
+01:07:46,100 --> 01:07:49,190
+Facebook really gave the military
+and other bad actors
+
+1148
+01:07:49,270 --> 01:07:51,770
+a new way to manipulate public opinion
+
+1149
+01:07:51,850 --> 01:07:55,520
+and to help incite violence
+against the Rohingya Muslims
+
+1150
+01:07:55,610 --> 01:07:57,400
+that included mass killings,
+
+1151
+01:07:58,110 --> 01:07:59,860
+burning of entire villages,
+
+1152
+01:07:59,950 --> 01:08:03,700
+mass rape, and other serious crimes
+against humanity
+
+1153
+01:08:03,780 --> 01:08:04,950
+that have now led
+
+1154
+01:08:05,030 --> 01:08:08,200
+to 700,000 Rohingya Muslims
+having to flee the country.
+
+1155
+01:08:11,170 --> 01:08:14,790
+It's not
+that highly motivated propagandists
+
+1156
+01:08:14,880 --> 01:08:16,550
+haven't existed before.
+
+1157
+01:08:16,630 --> 01:08:19,760
+It's that the platforms make it possible
+
+1158
+01:08:19,840 --> 01:08:23,720
+to spread manipulative narratives
+with phenomenal ease,
+
+1159
+01:08:23,800 --> 01:08:25,430
+and without very much money.
+
+1160
+01:08:25,510 --> 01:08:27,810
+If I want to manipulate an election,
+
+1161
+01:08:27,890 --> 01:08:30,560
+I can now go into
+a conspiracy theory group on Facebook,
+
+1162
+01:08:30,640 --> 01:08:32,230
+and I can find 100 people
+
+1163
+01:08:32,310 --> 01:08:34,440
+who believe
+that the Earth is completely flat
+
+1164
+01:08:34,860 --> 01:08:37,780
+and think it's all this conspiracy theory
+that we landed on the moon,
+
+1165
+01:08:37,860 --> 01:08:41,450
+and I can tell Facebook,
+"Give me 1,000 users who look like that."
+
+1166
+01:08:42,110 --> 01:08:46,080
+Facebook will happily send me
+thousands of users that look like them
+
+1167
+01:08:46,160 --> 01:08:49,250
+that I can now hit
+with more conspiracy theories.
+
+1168
+01:08:50,370 --> 01:08:53,080
+-Sold for 3.4 cents an impression.
+
+1169
+01:08:53,370 --> 01:08:56,380
+-New EC video to promote.
+- Another ad teed up.
+
+1170
+01:08:58,500 --> 01:09:00,920
+Algorithms
+and manipulative politicians
+
+1171
+01:09:01,010 --> 01:09:02,130
+are becoming so expert
+
+1172
+01:09:02,220 --> 01:09:04,050
+at learning how to trigger us,
+
+1173
+01:09:04,140 --> 01:09:08,350
+getting so good at creating fake news
+that we absorb as if it were reality,
+
+1174
+01:09:08,430 --> 01:09:10,810
+and confusing us into believing
+those lies.
+
+1175
+01:09:10,890 --> 01:09:12,600
+It's as though we have
+less and less control
+
+1176
+01:09:12,690 --> 01:09:14,150
+over who we are and what we believe.
+
+1177
+01:09:31,370 --> 01:09:32,830
+...so they can pick sides.
+
+1178
+01:09:32,910 --> 01:09:34,870
+There's lies here,
+and there's lies over there.
+
+1179
+01:09:34,960 --> 01:09:36,330
+So they can keep the power,
+
+1180
+01:09:36,420 --> 01:09:39,960
+-so they can control everything.
+
+1181
+01:09:40,050 --> 01:09:42,550
+They can control our minds,
+
+1182
+01:09:42,630 --> 01:09:46,390
+-so that they can keep their secrets.
+
+1183
+01:09:48,510 --> 01:09:50,890
+Imagine a world
+where no one believes anything true.
+
+1184
+01:09:52,890 --> 01:09:55,640
+Everyone believes
+the government's lying to them.
+
+1185
+01:09:56,310 --> 01:09:58,440
+Everything is a conspiracy theory.
+
+1186
+01:09:58,520 --> 01:10:01,190
+"I shouldn't trust anyone.
+I hate the other side."
+
+1187
+01:10:01,280 --> 01:10:02,690
+That's where all this is heading.
+
+1188
+01:10:02,780 --> 01:10:06,160
+The political earthquakes in Europe
+continue to rumble.
+
+1189
+01:10:06,240 --> 01:10:08,410
+This time, in Italy and Spain.
+
+1190
+01:10:08,490 --> 01:10:11,990
+Overall, Europe's traditional,
+centrist coalition lost its majority
+
+1191
+01:10:12,080 --> 01:10:15,000
+while far right
+and far left populist parties made gains.
+
+1192
+01:10:19,750 --> 01:10:20,590
+Back up.
+
+1193
+01:10:21,300 --> 01:10:22,500
+-Okay, let's go.
+
+1194
+01:10:28,390 --> 01:10:31,260
+These accounts
+were deliberately, specifically attempting
+
+1195
+01:10:31,350 --> 01:10:34,350
+-to sow political discord in Hong Kong.
+
+1196
+01:10:38,600 --> 01:10:40,360
+-All right, Ben.
+
+1197
+01:10:42,860 --> 01:10:45,030
+What does it look like to be a country
+
+1198
+01:10:45,110 --> 01:10:48,410
+that's entire diet is Facebook
+and social media?
+
+1199
+01:10:48,950 --> 01:10:50,870
+Democracy crumbled quickly.
+
+1200
+01:10:50,950 --> 01:10:51,830
+Six months.
+
+1201
+01:10:51,910 --> 01:10:53,790
+After that chaos in Chicago,
+
+1202
+01:10:53,870 --> 01:10:57,080
+violent clashes between protesters
+and supporters...
+
+1203
+01:10:58,000 --> 01:11:01,630
+Democracy is facing
+a crisis of confidence.
+
+1204
+01:11:01,710 --> 01:11:04,340
+What we're seeing is a global assault
+on democracy.
+
+1205
+01:11:05,510 --> 01:11:07,930
+Most of the countries
+that are targeted are countries
+
+1206
+01:11:08,010 --> 01:11:09,720
+that run democratic elections.
+
+1207
+01:11:10,640 --> 01:11:12,510
+This is happening at scale.
+
+1208
+01:11:12,600 --> 01:11:15,560
+By state actors,
+by people with millions of dollars saying,
+
+1209
+01:11:15,640 --> 01:11:18,520
+"I wanna destabilize Kenya.
+I wanna destabilize Cameroon.
+
+1210
+01:11:18,600 --> 01:11:20,650
+Oh, Angola? That only costs this much."
+
+1211
+01:11:20,730 --> 01:11:23,360
+An extraordinary election
+took place Sunday in Brazil.
+
+1212
+01:11:23,440 --> 01:11:25,820
+With a campaign that's been powered
+by social media.
+
+1213
+01:11:31,030 --> 01:11:33,950
+We in the tech industry
+have created the tools
+
+1214
+01:11:34,030 --> 01:11:37,410
+to destabilize
+and erode the fabric of society
+
+1215
+01:11:37,500 --> 01:11:40,250
+in every country, all at once, everywhere.
+
+1216
+01:11:40,330 --> 01:11:44,500
+You have this in Germany, Spain, France,
+Brazil, Australia.
+
+1217
+01:11:44,590 --> 01:11:47,260
+Some of the most "developed nations"
+in the world
+
+1218
+01:11:47,340 --> 01:11:49,220
+are now imploding on each other,
+
+1219
+01:11:49,300 --> 01:11:50,930
+and what do they have in common?
+
+1220
+01:11:51,970 --> 01:11:52,970
+Knowing what you know now,
+
+1221
+01:11:53,050 --> 01:11:56,310
+do you believe Facebook impacted
+the results of the 2016 election?
+
+1222
+01:11:56,770 --> 01:11:58,810
+Oh, that's... that is hard.
+
+1223
+01:11:58,890 --> 01:12:00,690
+You know, it's... the...
+
+1224
+01:12:01,270 --> 01:12:04,650
+the reality is, well, there
+were so many different forces at play.
+
+1225
+01:12:04,730 --> 01:12:07,860
+Representatives from Facebook, Twitter,
+and Google are back on Capitol Hill
+
+1226
+01:12:07,940 --> 01:12:09,450
+for a second day of testimony
+
+1227
+01:12:09,530 --> 01:12:12,570
+about Russia's interference
+in the 2016 election.
+
+1228
+01:12:12,660 --> 01:12:17,290
+The manipulation
+by third parties is not a hack.
+
+1229
+01:12:18,500 --> 01:12:21,460
+Right? The Russians didn't hack Facebook.
+
+1230
+01:12:21,540 --> 01:12:24,960
+What they did was they used the tools
+that Facebook created
+
+1231
+01:12:25,040 --> 01:12:27,840
+for legitimate advertisers
+and legitimate users,
+
+1232
+01:12:27,920 --> 01:12:30,340
+and they applied it
+to a nefarious purpose.
+
+1233
+01:12:32,010 --> 01:12:34,390
+It's like remote-control warfare.
+
+1234
+01:12:34,470 --> 01:12:36,600
+One country can manipulate another one
+
+1235
+01:12:36,680 --> 01:12:39,220
+without actually invading
+its physical borders.
+
+1236
+01:12:39,600 --> 01:12:42,230
+We're seeing violent images.
+It appears to be a dumpster
+
+1237
+01:12:42,310 --> 01:12:43,310
+being pushed around...
+
+1238
+01:12:43,400 --> 01:12:46,020
+But it wasn't
+about who you wanted to vote for.
+
+1239
+01:12:46,360 --> 01:12:50,570
+It was about sowing total chaos
+and division in society.
+
+1240
+01:12:50,650 --> 01:12:53,030
+Now,
+this was in Huntington Beach. A march...
+
+1241
+01:12:53,110 --> 01:12:54,870
+It's about making two sides
+
+1242
+01:12:54,950 --> 01:12:56,410
+who couldn't hear each other anymore,
+
+1243
+01:12:56,490 --> 01:12:58,120
+who didn't want to hear each other
+anymore,
+
+1244
+01:12:58,200 --> 01:12:59,870
+who didn't trust each other anymore.
+
+1245
+01:12:59,950 --> 01:13:03,210
+This is a city
+where hatred was laid bare
+
+1246
+01:13:03,290 --> 01:13:05,460
+and transformed into racial violence.
+
+1247
+01:13:20,140 --> 01:13:20,970
+Ben!
+
+1248
+01:13:21,600 --> 01:13:22,430
+Cassandra!
+
+1249
+01:13:22,980 --> 01:13:23,810
+-Cass!
+-Ben!
+
+1250
+01:13:23,890 --> 01:13:25,480
+Come here! Come here!
+
+1251
+01:13:27,480 --> 01:13:31,150
+Arms up. Arms up.
+Get down on your knees. Now, down.
+
+1252
+01:13:36,120 --> 01:13:37,200
+- Calm--
+-Ben!
+
+1253
+01:13:37,280 --> 01:13:38,660
+Hey! Hands up!
+
+1254
+01:13:39,620 --> 01:13:41,750
+Turn around. On the ground. On the ground!
+
+1255
+01:13:56,720 --> 01:14:00,010
+Do we want this system for sale
+to the highest bidder?
+
+1256
+01:14:01,430 --> 01:14:05,390
+For democracy to be completely for sale,
+where you can reach any mind you want,
+
+1257
+01:14:05,480 --> 01:14:09,060
+target a lie to that specific population,
+and create culture wars?
+
+1258
+01:14:09,230 --> 01:14:10,230
+Do we want that?
+
+1259
+01:14:14,700 --> 01:14:16,570
+We are a nation of people...
+
+1260
+01:14:16,950 --> 01:14:18,870
+that no longer speak to each other.
+
+1261
+01:14:19,870 --> 01:14:23,000
+We are a nation of people
+who have stopped being friends with people
+
+1262
+01:14:23,080 --> 01:14:25,460
+because of who they voted for
+in the last election.
+
+1263
+01:14:25,870 --> 01:14:28,420
+We are a nation of people
+who have isolated ourselves
+
+1264
+01:14:28,500 --> 01:14:30,960
+to only watch channels
+that tell us that we're right.
+
+1265
+01:14:32,250 --> 01:14:36,590
+My message here today is that tribalism
+is ruining us.
+
+1266
+01:14:37,340 --> 01:14:39,180
+It is tearing our country apart.
+
+1267
+01:14:40,260 --> 01:14:42,810
+It is no way for sane adults to act.
+
+1268
+01:14:43,180 --> 01:14:45,310
+If everyone's entitled to their own facts,
+
+1269
+01:14:45,390 --> 01:14:49,400
+there's really no need for compromise,
+no need for people to come together.
+
+1270
+01:14:49,480 --> 01:14:51,690
+In fact, there's really no need
+for people to interact.
+
+1271
+01:14:52,320 --> 01:14:53,530
+We need to have...
+
+1272
+01:14:53,980 --> 01:14:58,410
+some shared understanding of reality.
+Otherwise, we aren't a country.
+
+1273
+01:14:58,950 --> 01:15:02,990
+So, uh, long-term, the solution here is
+to build more AI tools
+
+1274
+01:15:03,080 --> 01:15:08,120
+that find patterns of people using
+the services that no real person would do.
+
+1275
+01:15:08,210 --> 01:15:11,840
+We are allowing the technologists
+to frame this as a problem
+
+1276
+01:15:11,920 --> 01:15:13,880
+that they're equipped to solve.
+
+1277
+01:15:15,130 --> 01:15:16,470
+That is... That's a lie.
+
+1278
+01:15:17,670 --> 01:15:20,720
+People talk about AI
+as if it will know truth.
+
+1279
+01:15:21,680 --> 01:15:23,680
+AI's not gonna solve these problems.
+
+1280
+01:15:24,260 --> 01:15:27,180
+AI cannot solve the problem of fake news.
+
+1281
+01:15:28,640 --> 01:15:31,020
+Google doesn't have the option of saying,
+
+1282
+01:15:31,100 --> 01:15:36,240
+"Oh, is this conspiracy? Is this truth?"
+Because they don't know what truth is.
+
+1283
+01:15:36,780 --> 01:15:37,780
+They don't have a...
+
+1284
+01:15:37,900 --> 01:15:40,820
+They don't have a proxy for truth
+that's better than a click.
+
+1285
+01:15:41,870 --> 01:15:45,120
+If we don't agree on what is true
+
+1286
+01:15:45,200 --> 01:15:47,580
+or that there is such a thing as truth,
+
+1287
+01:15:48,290 --> 01:15:49,290
+we're toast.
+
+1288
+01:15:49,750 --> 01:15:52,080
+This is the problem
+beneath other problems
+
+1289
+01:15:52,170 --> 01:15:54,420
+because if we can't agree on what's true,
+
+1290
+01:15:55,090 --> 01:15:57,800
+then we can't navigate
+out of any of our problems.
+
+1291
+01:16:05,430 --> 01:16:07,720
+We should suggest
+Flat Earth Football Club.
+
+1292
+01:16:07,810 --> 01:16:10,560
+Don't show him
+sports updates. He doesn't engage.
+
+1293
+01:16:39,880 --> 01:16:42,760
+A lot of people in Silicon Valley
+subscribe to some kind of theory
+
+1294
+01:16:42,840 --> 01:16:45,140
+that we're building
+some global super brain,
+
+1295
+01:16:45,300 --> 01:16:48,020
+and all of our users
+are just interchangeable little neurons,
+
+1296
+01:16:48,100 --> 01:16:49,560
+no one of which is important.
+
+1297
+01:16:50,230 --> 01:16:53,150
+And it subjugates people
+into this weird role
+
+1298
+01:16:53,230 --> 01:16:56,060
+where you're just, like,
+this little computing element
+
+1299
+01:16:56,150 --> 01:16:58,900
+that we're programming
+through our behavior manipulation
+
+1300
+01:16:58,980 --> 01:17:02,360
+for the service of this giant brain,
+and you don't matter.
+
+1301
+01:17:02,450 --> 01:17:04,910
+You're not gonna get paid.
+You're not gonna get acknowledged.
+
+1302
+01:17:04,990 --> 01:17:06,450
+You don't have self-determination.
+
+1303
+01:17:06,530 --> 01:17:09,410
+We'll sneakily just manipulate you
+because you're a computing node,
+
+1304
+01:17:09,490 --> 01:17:12,330
+so we need to program you 'cause that's
+what you do with computing nodes.
+
+1305
+01:17:20,090 --> 01:17:21,840
+Oh, man.
+
+1306
+01:17:21,920 --> 01:17:25,390
+When you think about technology
+and it being an existential threat,
+
+1307
+01:17:25,470 --> 01:17:28,060
+you know, that's a big claim, and...
+
+1308
+01:17:29,600 --> 01:17:33,980
+it's easy to then, in your mind, think,
+"Okay, so, there I am with the phone...
+
+1309
+01:17:35,600 --> 01:17:37,230
+scrolling, clicking, using it.
+
+1310
+01:17:37,310 --> 01:17:39,190
+Like, where's the existential threat?
+
+1311
+01:17:40,280 --> 01:17:41,610
+Okay, there's the supercomputer.
+
+1312
+01:17:41,690 --> 01:17:43,950
+The other side of the screen,
+pointed at my brain,
+
+1313
+01:17:44,400 --> 01:17:47,530
+got me to watch one more video.
+Where's the existential threat?"
+
+1314
+01:17:54,250 --> 01:17:57,630
+It's not
+about the technology
+
+1315
+01:17:57,710 --> 01:17:59,340
+being the existential threat.
+
+1316
+01:18:03,670 --> 01:18:06,260
+It's the technology's ability
+
+1317
+01:18:06,340 --> 01:18:09,470
+to bring out the worst in society...
+
+1318
+01:18:09,550 --> 01:18:13,520
+...and the worst in society
+being the existential threat.
+
+1319
+01:18:18,810 --> 01:18:20,570
+If technology creates...
+
+1320
+01:18:21,690 --> 01:18:23,110
+mass chaos,
+
+1321
+01:18:23,190 --> 01:18:24,530
+outrage, incivility,
+
+1322
+01:18:24,610 --> 01:18:26,320
+lack of trust in each other,
+
+1323
+01:18:27,450 --> 01:18:30,410
+loneliness, alienation, more polarization,
+
+1324
+01:18:30,700 --> 01:18:33,330
+more election hacking, more populism,
+
+1325
+01:18:33,910 --> 01:18:36,960
+more distraction and inability
+to focus on the real issues...
+
+1326
+01:18:37,960 --> 01:18:39,710
+that's just society.
+
+1327
+01:18:40,340 --> 01:18:46,380
+And now society
+is incapable of healing itself
+
+1328
+01:18:46,470 --> 01:18:48,510
+and just devolving into a kind of chaos.
+
+1329
+01:18:51,970 --> 01:18:54,930
+This affects everyone,
+even if you don't use these products.
+
+1330
+01:18:55,390 --> 01:18:57,520
+These things have become
+digital Frankensteins
+
+1331
+01:18:57,600 --> 01:19:00,060
+that are terraforming the world
+in their image,
+
+1332
+01:19:00,150 --> 01:19:01,860
+whether it's the mental health of children
+
+1333
+01:19:01,940 --> 01:19:04,480
+or our politics
+and our political discourse,
+
+1334
+01:19:04,570 --> 01:19:07,490
+without taking responsibility
+for taking over the public square.
+
+1335
+01:19:07,570 --> 01:19:10,570
+-So, again, it comes back to--
+-And who do you think's responsible?
+
+1336
+01:19:10,660 --> 01:19:13,580
+I think we have
+to have the platforms be responsible
+
+1337
+01:19:13,660 --> 01:19:15,580
+for when they take over
+election advertising,
+
+1338
+01:19:15,660 --> 01:19:17,790
+they're responsible
+for protecting elections.
+
+1339
+01:19:17,870 --> 01:19:20,380
+When they take over mental health of kids
+or Saturday morning,
+
+1340
+01:19:20,460 --> 01:19:22,840
+they're responsible
+for protecting Saturday morning.
+
+1341
+01:19:23,590 --> 01:19:27,920
+The race to keep people's attention
+isn't going away.
+
+1342
+01:19:28,380 --> 01:19:31,850
+Our technology's gonna become
+more integrated into our lives, not less.
+
+1343
+01:19:31,930 --> 01:19:34,890
+The AIs are gonna get better at predicting
+what keeps us on the screen,
+
+1344
+01:19:34,970 --> 01:19:37,100
+not worse at predicting
+what keeps us on the screen.
+
+1345
+01:19:38,940 --> 01:19:42,020
+I... I am 62 years old,
+
+1346
+01:19:42,110 --> 01:19:44,820
+getting older every minute,
+the more this conversation goes on...
+
+1347
+01:19:44,900 --> 01:19:48,030
+-...but... but I will tell you that, um...
+
+1348
+01:19:48,700 --> 01:19:52,370
+I'm probably gonna be dead and gone,
+and I'll probably be thankful for it,
+
+1349
+01:19:52,450 --> 01:19:54,330
+when all this shit comes to fruition.
+
+1350
+01:19:54,790 --> 01:19:59,580
+Because... Because I think
+that this scares me to death.
+
+1351
+01:20:00,750 --> 01:20:03,040
+Do... Do you...
+Do you see it the same way?
+
+1352
+01:20:03,540 --> 01:20:06,880
+Or am I overreacting to a situation
+that I don't know enough about?
+
+1353
+01:20:09,800 --> 01:20:11,590
+What are you most worried about?
+
+1354
+01:20:13,850 --> 01:20:18,480
+I think,
+in the... in the shortest time horizon...
+
+1355
+01:20:19,520 --> 01:20:20,520
+civil war.
+
+1356
+01:20:24,440 --> 01:20:29,900
+If we go down the current status quo
+for, let's say, another 20 years...
+
+1357
+01:20:31,110 --> 01:20:34,570
+we probably destroy our civilization
+through willful ignorance.
+
+1358
+01:20:34,660 --> 01:20:37,950
+We probably fail to meet the challenge
+of climate change.
+
+1359
+01:20:38,040 --> 01:20:42,080
+We probably degrade
+the world's democracies
+
+1360
+01:20:42,170 --> 01:20:46,130
+so that they fall into some sort
+of bizarre autocratic dysfunction.
+
+1361
+01:20:46,210 --> 01:20:48,420
+We probably ruin the global economy.
+
+1362
+01:20:48,760 --> 01:20:52,260
+Uh, we probably, um, don't survive.
+
+1363
+01:20:52,340 --> 01:20:54,800
+You know,
+I... I really do view it as existential.
+
+1364
+01:21:02,520 --> 01:21:04,980
+Is this the last generation of people
+
+1365
+01:21:05,060 --> 01:21:08,480
+that are gonna know what it was like
+before this illusion took place?
+
+1366
+01:21:11,070 --> 01:21:14,570
+Like, how do you wake up from the matrix
+when you don't know you're in the matrix?
+
+1367
+01:21:27,380 --> 01:21:30,630
+A lot of what we're saying
+sounds like it's just this...
+
+1368
+01:21:31,510 --> 01:21:33,680
+one-sided doom and gloom.
+
+1369
+01:21:33,760 --> 01:21:36,800
+Like, "Oh, my God,
+technology's just ruining the world
+
+1370
+01:21:36,890 --> 01:21:38,050
+and it's ruining kids,"
+
+1371
+01:21:38,140 --> 01:21:40,060
+and it's like... "No."
+
+1372
+01:21:40,220 --> 01:21:44,060
+It's confusing
+because it's simultaneous utopia...
+
+1373
+01:21:44,600 --> 01:21:45,560
+and dystopia.
+
+1374
+01:21:45,940 --> 01:21:50,440
+Like, I could hit a button on my phone,
+and a car shows up in 30 seconds,
+
+1375
+01:21:50,530 --> 01:21:52,690
+and I can go exactly where I need to go.
+
+1376
+01:21:52,780 --> 01:21:55,660
+That is magic. That's amazing.
+
+1377
+01:21:56,160 --> 01:21:57,660
+When we were making the like button,
+
+1378
+01:21:57,740 --> 01:22:01,490
+our entire motivation was, "Can we spread
+positivity and love in the world?"
+
+1379
+01:22:01,580 --> 01:22:05,000
+The idea that, fast-forward to today,
+and teens would be getting depressed
+
+1380
+01:22:05,080 --> 01:22:06,420
+when they don't have enough likes,
+
+1381
+01:22:06,500 --> 01:22:08,630
+or it could be leading
+to political polarization
+
+1382
+01:22:08,710 --> 01:22:09,880
+was nowhere on our radar.
+
+1383
+01:22:09,960 --> 01:22:12,130
+I don't think these guys set out
+to be evil.
+
+1384
+01:22:13,510 --> 01:22:15,760
+It's just the business model
+that has a problem.
+
+1385
+01:22:15,840 --> 01:22:20,220
+You could shut down the service
+and destroy whatever it is--
+
+1386
+01:22:20,310 --> 01:22:24,520
+$20 billion of shareholder value--
+and get sued and...
+
+1387
+01:22:24,600 --> 01:22:27,100
+But you can't, in practice,
+put the genie back in the bottle.
+
+1388
+01:22:27,190 --> 01:22:30,400
+You can make some tweaks,
+but at the end of the day,
+
+1389
+01:22:30,480 --> 01:22:34,030
+you've gotta grow revenue and usage,
+quarter over quarter. It's...
+
+1390
+01:22:34,650 --> 01:22:37,530
+The bigger it gets,
+the harder it is for anyone to change.
+
+1391
+01:22:38,490 --> 01:22:43,450
+What I see is a bunch of people
+who are trapped by a business model,
+
+1392
+01:22:43,540 --> 01:22:46,160
+an economic incentive,
+and shareholder pressure
+
+1393
+01:22:46,250 --> 01:22:48,920
+that makes it almost impossible
+to do something else.
+
+1394
+01:22:49,000 --> 01:22:50,920
+I think we need to accept that it's okay
+
+1395
+01:22:51,000 --> 01:22:53,170
+for companies to be focused
+on making money.
+
+1396
+01:22:53,250 --> 01:22:55,630
+What's not okay
+is when there's no regulation, no rules,
+
+1397
+01:22:55,720 --> 01:22:56,880
+and no competition,
+
+1398
+01:22:56,970 --> 01:23:00,850
+and the companies are acting
+as sort of de facto governments.
+
+1399
+01:23:00,930 --> 01:23:03,350
+And then they're saying,
+"Well, we can regulate ourselves."
+
+1400
+01:23:03,430 --> 01:23:05,980
+I mean, that's just a lie.
+That's just ridiculous.
+
+1401
+01:23:06,060 --> 01:23:08,650
+Financial incentives kind of run
+the world,
+
+1402
+01:23:08,730 --> 01:23:12,520
+so any solution to this problem
+
+1403
+01:23:12,610 --> 01:23:15,570
+has to realign the financial incentives.
+
+1404
+01:23:16,070 --> 01:23:18,780
+There's no fiscal reason
+for these companies to change.
+
+1405
+01:23:18,860 --> 01:23:21,320
+And that is why I think
+we need regulation.
+
+1406
+01:23:21,410 --> 01:23:24,290
+The phone company
+has tons of sensitive data about you,
+
+1407
+01:23:24,370 --> 01:23:27,540
+and we have a lot of laws that make sure
+they don't do the wrong things.
+
+1408
+01:23:27,620 --> 01:23:31,500
+We have almost no laws
+around digital privacy, for example.
+
+1409
+01:23:31,580 --> 01:23:34,420
+We could tax data collection
+and processing
+
+1410
+01:23:34,500 --> 01:23:37,550
+the same way that you, for example,
+pay your water bill
+
+1411
+01:23:37,630 --> 01:23:39,720
+by monitoring the amount of water
+that you use.
+
+1412
+01:23:39,800 --> 01:23:43,220
+You tax these companies on the data assets
+that they have.
+
+1413
+01:23:43,300 --> 01:23:44,760
+It gives them a fiscal reason
+
+1414
+01:23:44,850 --> 01:23:47,850
+to not acquire every piece of data
+on the planet.
+
+1415
+01:23:47,930 --> 01:23:50,560
+The law runs way behind on these things,
+
+1416
+01:23:50,650 --> 01:23:55,860
+but what I know is the current situation
+exists not for the protection of users,
+
+1417
+01:23:55,940 --> 01:23:58,700
+but for the protection
+of the rights and privileges
+
+1418
+01:23:58,780 --> 01:24:01,450
+of these gigantic,
+incredibly wealthy companies.
+
+1419
+01:24:02,240 --> 01:24:05,830
+Are we always gonna defer to the richest,
+most powerful people?
+
+1420
+01:24:05,910 --> 01:24:07,410
+Or are we ever gonna say,
+
+1421
+01:24:07,950 --> 01:24:12,040
+"You know, there are times
+when there is a national interest.
+
+1422
+01:24:12,130 --> 01:24:15,590
+There are times
+when the interests of people, of users,
+
+1423
+01:24:15,670 --> 01:24:17,380
+is actually more important
+
+1424
+01:24:18,010 --> 01:24:21,470
+than the profits of somebody
+who's already a billionaire"?
+
+1425
+01:24:21,550 --> 01:24:26,600
+These markets undermine democracy,
+and they undermine freedom,
+
+1426
+01:24:26,680 --> 01:24:28,520
+and they should be outlawed.
+
+1427
+01:24:29,140 --> 01:24:31,810
+This is not a radical proposal.
+
+1428
+01:24:31,900 --> 01:24:34,190
+There are other markets that we outlaw.
+
+1429
+01:24:34,270 --> 01:24:36,980
+We outlaw markets in human organs.
+
+1430
+01:24:37,070 --> 01:24:39,490
+We outlaw markets in human slaves.
+
+1431
+01:24:39,940 --> 01:24:44,030
+Because they have
+inevitable destructive consequences.
+
+1432
+01:24:44,530 --> 01:24:45,830
+We live in a world
+
+1433
+01:24:45,910 --> 01:24:50,000
+in which a tree is worth more,
+financially, dead than alive,
+
+1434
+01:24:50,080 --> 01:24:53,830
+in a world in which a whale
+is worth more dead than alive.
+
+1435
+01:24:53,920 --> 01:24:56,340
+For so long as our economy works
+in that way
+
+1436
+01:24:56,420 --> 01:24:58,130
+and corporations go unregulated,
+
+1437
+01:24:58,210 --> 01:25:00,670
+they're going to continue
+to destroy trees,
+
+1438
+01:25:00,760 --> 01:25:01,760
+to kill whales,
+
+1439
+01:25:01,840 --> 01:25:06,100
+to mine the earth, and to continue
+to pull oil out of the ground,
+
+1440
+01:25:06,180 --> 01:25:08,390
+even though we know
+it is destroying the planet
+
+1441
+01:25:08,470 --> 01:25:12,140
+and we know that it's going to leave
+a worse world for future generations.
+
+1442
+01:25:12,230 --> 01:25:13,850
+This is short-term thinking
+
+1443
+01:25:13,940 --> 01:25:16,690
+based on this religion of profit
+at all costs,
+
+1444
+01:25:16,770 --> 01:25:20,150
+as if somehow, magically, each corporation
+acting in its selfish interest
+
+1445
+01:25:20,240 --> 01:25:21,950
+is going to produce the best result.
+
+1446
+01:25:22,030 --> 01:25:24,490
+This has been affecting the environment
+for a long time.
+
+1447
+01:25:24,570 --> 01:25:27,280
+What's frightening,
+and what hopefully is the last straw
+
+1448
+01:25:27,370 --> 01:25:29,200
+that will make us wake up
+as a civilization
+
+1449
+01:25:29,290 --> 01:25:31,700
+to how flawed this theory has been
+in the first place
+
+1450
+01:25:31,790 --> 01:25:35,000
+is to see that now we're the tree,
+we're the whale.
+
+1451
+01:25:35,080 --> 01:25:37,040
+Our attention can be mined.
+
+1452
+01:25:37,130 --> 01:25:39,130
+We are more profitable to a corporation
+
+1453
+01:25:39,210 --> 01:25:41,590
+if we're spending time
+staring at a screen,
+
+1454
+01:25:41,670 --> 01:25:42,970
+staring at an ad,
+
+1455
+01:25:43,050 --> 01:25:45,890
+than if we're spending that time
+living our life in a rich way.
+
+1456
+01:25:45,970 --> 01:25:47,550
+And so, we're seeing the results of that.
+
+1457
+01:25:47,640 --> 01:25:50,680
+We're seeing corporations using
+powerful artificial intelligence
+
+1458
+01:25:50,770 --> 01:25:53,640
+to outsmart us and figure out
+how to pull our attention
+
+1459
+01:25:53,730 --> 01:25:55,350
+toward the things they want us to look at,
+
+1460
+01:25:55,440 --> 01:25:57,270
+rather than the things
+that are most consistent
+
+1461
+01:25:57,360 --> 01:25:59,230
+with our goals and our values
+and our lives.
+
+1462
+01:26:05,530 --> 01:26:06,910
+What a computer is,
+
+1463
+01:26:06,990 --> 01:26:10,290
+is it's the most remarkable tool
+that we've ever come up with.
+
+1464
+01:26:11,120 --> 01:26:13,870
+And it's the equivalent of a bicycle
+for our minds.
+
+1465
+01:26:15,620 --> 01:26:20,090
+The idea of humane technology,
+that's where Silicon Valley got its start.
+
+1466
+01:26:21,050 --> 01:26:25,720
+And we've lost sight of it
+because it became the cool thing to do,
+
+1467
+01:26:25,800 --> 01:26:27,260
+as opposed to the right thing to do.
+
+1468
+01:26:27,340 --> 01:26:29,720
+The Internet was, like,
+a weird, wacky place.
+
+1469
+01:26:29,800 --> 01:26:31,390
+It was experimental.
+
+1470
+01:26:31,470 --> 01:26:34,730
+Creative things happened on the Internet,
+and certainly, they do still,
+
+1471
+01:26:34,810 --> 01:26:38,610
+but, like, it just feels like this,
+like, giant mall.
+
+1472
+01:26:38,690 --> 01:26:42,070
+You know, it's just like, "God,
+there's gotta be...
+
+1473
+01:26:42,150 --> 01:26:44,150
+there's gotta be more to it than that."
+
+1474
+01:26:46,650 --> 01:26:48,410
+I guess I'm just an optimist.
+
+1475
+01:26:48,490 --> 01:26:52,040
+'Cause I think we can change
+what social media looks like and means.
+
+1476
+01:26:54,080 --> 01:26:56,710
+The way the technology works
+is not a law of physics.
+
+1477
+01:26:56,790 --> 01:26:57,920
+It is not set in stone.
+
+1478
+01:26:58,000 --> 01:27:02,170
+These are choices that human beings
+like myself have been making.
+
+1479
+01:27:02,750 --> 01:27:05,340
+And human beings can change
+those technologies.
+
+1480
+01:27:06,970 --> 01:27:09,970
+And the question now is
+whether or not we're willing to admit
+
+1481
+01:27:10,470 --> 01:27:15,430
+that those bad outcomes are coming
+directly as a product of our work.
+
+1482
+01:27:21,020 --> 01:27:24,860
+It's that we built these things,
+and we have a responsibility to change it.
+
+1483
+01:27:37,080 --> 01:27:38,710
+The attention extraction model
+
+1484
+01:27:38,790 --> 01:27:42,290
+is not how we want to treat
+human beings.
+
+1485
+01:27:45,340 --> 01:27:48,130
+Is it just me or...
+
+1486
+01:27:49,720 --> 01:27:51,090
+Poor sucker.
+
+1487
+01:27:51,510 --> 01:27:53,220
+The fabric of a healthy society
+
+1488
+01:27:53,300 --> 01:27:56,140
+depends on us getting off
+this corrosive business model.
+
+1489
+01:28:04,690 --> 01:28:08,150
+We can demand
+that these products be designed humanely.
+
+1490
+01:28:09,400 --> 01:28:13,120
+We can demand to not be treated
+as an extractable resource.
+
+1491
+01:28:15,160 --> 01:28:18,330
+The intention could be:
+"How do we make the world better?"
+
+1492
+01:28:20,330 --> 01:28:21,500
+Throughout history,
+
+1493
+01:28:21,580 --> 01:28:23,790
+every single time
+something's gotten better,
+
+1494
+01:28:23,880 --> 01:28:26,340
+it's because somebody has come along
+to say,
+
+1495
+01:28:26,420 --> 01:28:28,420
+"This is stupid. We can do better."
+
+1496
+01:28:29,170 --> 01:28:32,550
+Like, it's the critics
+that drive improvement.
+
+1497
+01:28:33,140 --> 01:28:35,390
+It's the critics
+who are the true optimists.
+
+1498
+01:28:37,020 --> 01:28:39,140
+Hello.
+
+1499
+01:28:42,980 --> 01:28:44,270
+Um...
+
+1500
+01:28:46,190 --> 01:28:47,690
+I mean, it seems kind of crazy, right?
+
+1501
+01:28:47,780 --> 01:28:51,530
+It's like the fundamental way
+that this stuff is designed...
+
+1502
+01:28:52,990 --> 01:28:55,160
+isn't going in a good direction.
+
+1503
+01:28:55,240 --> 01:28:56,870
+Like, the entire thing.
+
+1504
+01:28:56,950 --> 01:29:00,620
+So, it sounds crazy to say
+we need to change all that,
+
+1505
+01:29:01,160 --> 01:29:02,670
+but that's what we need to do.
+
+1506
+01:29:04,290 --> 01:29:05,920
+Think we're gonna get there?
+
+1507
+01:29:07,380 --> 01:29:08,300
+We have to.
+
+1508
+01:29:20,640 --> 01:29:24,940
+Um,
+it seems like you're very optimistic.
+
+1509
+01:29:26,190 --> 01:29:27,570
+-Is that how I sound?
+
+1510
+01:29:27,650 --> 01:29:28,900
+Yeah, I mean...
+
+1511
+01:29:28,980 --> 01:29:31,440
+I can't believe you keep saying that,
+because I'm like, "Really?
+
+1512
+01:29:31,530 --> 01:29:33,400
+I feel like we're headed toward dystopia.
+
+1513
+01:29:33,490 --> 01:29:35,320
+I feel like we're on the fast track
+to dystopia,
+
+1514
+01:29:35,410 --> 01:29:37,830
+and it's gonna take a miracle
+to get us out of it."
+
+1515
+01:29:37,910 --> 01:29:40,290
+And that miracle is, of course,
+collective will.
+
+1516
+01:29:41,000 --> 01:29:44,580
+I am optimistic
+that we're going to figure it out,
+
+1517
+01:29:44,670 --> 01:29:47,040
+but I think it's gonna take a long time.
+
+1518
+01:29:47,130 --> 01:29:50,380
+Because not everybody recognizes
+that this is a problem.
+
+1519
+01:29:50,460 --> 01:29:55,890
+I think one of the big failures
+in technology today
+
+1520
+01:29:55,970 --> 01:29:58,640
+is a real failure of leadership,
+
+1521
+01:29:58,720 --> 01:30:01,970
+of, like, people coming out
+and having these open conversations
+
+1522
+01:30:02,060 --> 01:30:05,900
+about things that... not just
+what went well, but what isn't perfect
+
+1523
+01:30:05,980 --> 01:30:08,190
+so that someone can come in
+and build something new.
+
+1524
+01:30:08,270 --> 01:30:10,320
+At the end of the day, you know,
+
+1525
+01:30:10,400 --> 01:30:14,610
+this machine isn't gonna turn around
+until there's massive public pressure.
+
+1526
+01:30:14,700 --> 01:30:18,320
+By having these conversations
+and... and voicing your opinion,
+
+1527
+01:30:18,410 --> 01:30:21,080
+in some cases
+through these very technologies,
+
+1528
+01:30:21,160 --> 01:30:24,250
+we can start to change the tide.
+We can start to change the conversation.
+
+1529
+01:30:24,330 --> 01:30:27,000
+It might sound strange,
+but it's my world. It's my community.
+
+1530
+01:30:27,080 --> 01:30:29,630
+I don't hate them. I don't wanna do
+any harm to Google or Facebook.
+
+1531
+01:30:29,710 --> 01:30:32,880
+I just want to reform them
+so they don't destroy the world. You know?
+
+1532
+01:30:32,960 --> 01:30:35,510
+I've uninstalled a ton of apps
+from my phone
+
+1533
+01:30:35,590 --> 01:30:37,720
+that I felt were just wasting my time.
+
+1534
+01:30:37,800 --> 01:30:40,680
+All the social media apps,
+all the news apps,
+
+1535
+01:30:40,760 --> 01:30:42,520
+and I've turned off notifications
+
+1536
+01:30:42,600 --> 01:30:45,810
+on anything that was vibrating my leg
+with information
+
+1537
+01:30:45,890 --> 01:30:48,940
+that wasn't timely and important to me
+right now.
+
+1538
+01:30:49,020 --> 01:30:51,270
+It's for the same reason
+I don't keep cookies in my pocket.
+
+1539
+01:30:51,360 --> 01:30:53,190
+Reduce the number of notifications
+you get.
+
+1540
+01:30:53,280 --> 01:30:54,440
+Turn off notifications.
+
+1541
+01:30:54,530 --> 01:30:55,950
+Turning off all notifications.
+
+1542
+01:30:56,030 --> 01:30:58,530
+I'm not using Google anymore,
+I'm using Qwant,
+
+1543
+01:30:58,610 --> 01:31:01,490
+which doesn't store your search history.
+
+1544
+01:31:01,580 --> 01:31:04,450
+Never accept a video recommended to you
+on YouTube.
+
+1545
+01:31:04,540 --> 01:31:07,000
+Always choose.
+That's another way to fight.
+
+1546
+01:31:07,080 --> 01:31:12,130
+There are tons of Chrome extensions
+that remove recommendations.
+
+1547
+01:31:12,210 --> 01:31:15,170
+You're recommending
+something to undo what you made.
+
+1548
+01:31:15,260 --> 01:31:16,550
+Yep.
+
+1549
+01:31:16,920 --> 01:31:21,640
+Before you share, fact-check,
+consider the source, do that extra Google.
+
+1550
+01:31:21,720 --> 01:31:25,100
+If it seems like it's something designed
+to really push your emotional buttons,
+
+1551
+01:31:25,180 --> 01:31:26,310
+like, it probably is.
+
+1552
+01:31:26,390 --> 01:31:29,020
+Essentially, you vote with your clicks.
+
+1553
+01:31:29,100 --> 01:31:30,350
+If you click on clickbait,
+
+1554
+01:31:30,440 --> 01:31:33,770
+you're creating a financial incentive
+that perpetuates this existing system.
+
+1555
+01:31:33,860 --> 01:31:36,940
+Make sure that you get
+lots of different kinds of information
+
+1556
+01:31:37,030 --> 01:31:37,900
+in your own life.
+
+1557
+01:31:37,990 --> 01:31:40,990
+I follow people on Twitter
+that I disagree with
+
+1558
+01:31:41,070 --> 01:31:44,200
+because I want to be exposed
+to different points of view.
+
+1559
+01:31:44,660 --> 01:31:46,580
+Notice that many people
+in the tech industry
+
+1560
+01:31:46,660 --> 01:31:49,040
+don't give these devices
+to their own children.
+
+1561
+01:31:49,120 --> 01:31:51,040
+My kids don't use social media at all.
+
+1562
+01:31:51,830 --> 01:31:53,540
+Is that a rule,
+or is that a...
+
+1563
+01:31:53,630 --> 01:31:54,500
+That's a rule.
+
+1564
+01:31:55,090 --> 01:31:57,840
+We are zealots about it.
+
+1565
+01:31:57,920 --> 01:31:59,220
+We're... We're crazy.
+
+1566
+01:31:59,300 --> 01:32:05,600
+And we don't let our kids have
+really any screen time.
+
+1567
+01:32:05,680 --> 01:32:08,560
+I've worked out
+what I think are three simple rules, um,
+
+1568
+01:32:08,640 --> 01:32:12,610
+that make life a lot easier for families
+and that are justified by the research.
+
+1569
+01:32:12,690 --> 01:32:15,570
+So, the first rule is
+all devices out of the bedroom
+
+1570
+01:32:15,650 --> 01:32:17,280
+at a fixed time every night.
+
+1571
+01:32:17,360 --> 01:32:20,530
+Whatever the time is, half an hour
+before bedtime, all devices out.
+
+1572
+01:32:20,610 --> 01:32:24,030
+The second rule is no social media
+until high school.
+
+1573
+01:32:24,120 --> 01:32:26,370
+Personally, I think the age should be 16.
+
+1574
+01:32:26,450 --> 01:32:28,960
+Middle school's hard enough.
+Keep it out until high school.
+
+1575
+01:32:29,040 --> 01:32:32,960
+And the third rule is
+work out a time budget with your kid.
+
+1576
+01:32:33,040 --> 01:32:34,750
+And if you talk with them and say,
+
+1577
+01:32:34,840 --> 01:32:37,920
+"Well, how many hours a day
+do you wanna spend on your device?
+
+1578
+01:32:38,010 --> 01:32:39,630
+What do you think is a good amount?"
+
+1579
+01:32:39,720 --> 01:32:41,590
+they'll often say
+something pretty reasonable.
+
+1580
+01:32:42,050 --> 01:32:44,640
+Well, look, I know perfectly well
+
+1581
+01:32:44,720 --> 01:32:48,560
+that I'm not gonna get everybody
+to delete their social media accounts,
+
+1582
+01:32:48,640 --> 01:32:50,430
+but I think I can get a few.
+
+1583
+01:32:50,520 --> 01:32:54,400
+And just getting a few people
+to delete their accounts matters a lot,
+
+1584
+01:32:54,480 --> 01:32:58,400
+and the reason why is that that creates
+the space for a conversation
+
+1585
+01:32:58,480 --> 01:33:00,900
+because I want there to be enough people
+out in the society
+
+1586
+01:33:00,990 --> 01:33:05,200
+who are free of the manipulation engines
+to have a societal conversation
+
+1587
+01:33:05,280 --> 01:33:07,540
+that isn't bounded
+by the manipulation engines.
+
+1588
+01:33:07,620 --> 01:33:10,120
+So, do it! Get out of the system.
+
+1589
+01:33:10,200 --> 01:33:12,500
+Yeah, delete. Get off the stupid stuff.
+
+1590
+01:33:13,540 --> 01:33:16,500
+The world's beautiful.
+Look. Look, it's great out there.
