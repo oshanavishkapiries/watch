@@ -3,8 +3,8 @@ const playerInstance = jwplayer("player").setup({
     sharing: true,
     displaytitle: true,
     displaydescription: true,
-    abouttext: "Buy Me a Coffee",
-    aboutlink: "https://www.buymeacoffee.com/pingo",
+    abouttext: "",
+    aboutlink: "",
   
     skin: {
       name: "netflix"
@@ -12,8 +12,8 @@ const playerInstance = jwplayer("player").setup({
   
     logo: {
       file:
-        "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
-      link: "https://www.buymeacoffee.com/pingo"
+        "",
+      link: ""
     },
   
     captions: {
@@ -27,7 +27,7 @@ const playerInstance = jwplayer("player").setup({
       {
         title: "Sprite Fright - Open Movie by Blender Studio",
         description: "You're Watching",
-        image: "https://i.ytimg.com/vi/_cMxraX_5RE/maxresdefault.jpg",
+        image: "",
         sources: [
           {
             file:
